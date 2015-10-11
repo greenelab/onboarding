@@ -3,6 +3,7 @@ Project
 
   * Code of Conduct
   * Development guide
+
     * Install
     * Build
     * Test
@@ -12,6 +13,7 @@ Project
     * Contribution Checklist
     * Standards
     * Maintainers
+
   * Authorship requirements
   * Documentation
   * SSI sustainability score
