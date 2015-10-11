@@ -3,15 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Lab Carpentry's documentation!
-=========================================
+Welcome to Lab Carpentry
+========================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
+How to Modify this Document
+===========================
 
 Indices and tables
 ==================
