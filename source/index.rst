@@ -24,6 +24,9 @@ Contents:
 How to Modify this Document
 ===========================
 
+The skeleton repository for this document is at
+http://bitbucket.org/lab-carpentry/lab-carpentry/
+
 Indices and tables
 ==================
 
