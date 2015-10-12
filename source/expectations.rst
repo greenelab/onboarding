@@ -1,15 +1,17 @@
 Expectations
 ============
 
+Code of Conduct: How do we behave?
+
 Authorship: How do we confer authorship?
 
-Project Ownership: punt
+Project Ownership: Who keeps a project after training is complete?
 
-Project Leadership: punt
+Project Leadership: Who leads execution of a project?
 
-Data Management: punt
+Data Management: How are
 
-IP/Openness: punt
+IP/Openness: How is sharing managed? Is IP a concern?
 
 Record Keeping: How do we record our actions?
 
