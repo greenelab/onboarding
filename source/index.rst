@@ -3,14 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Lab Carpentry
+Welcome to the Greene Laboratory
 ========================
-
-Lab Carpentry provides management tools for academic research labs. We
-have extracted practices that we find useful, such as the construction of
-an onboarding document, and we provide templates of such practices.
-
-Contents:
 
 .. toctree::
    :maxdepth: 2
@@ -18,17 +12,18 @@ Contents:
    meta
    mission_statement
    expectations
-   infrastructure
    communication
+   infrastructure
    coding_and_software
    canonical_reads
-   project
 
 How to Modify this Document
 ===========================
 
-The skeleton repository for this document is at
-http://bitbucket.org/lab-carpentry/lab-carpentry/
+This is a living document. The repository is at
+http://bitbucket.org/greenelab/onboarding/. To make changes, fork, make
+changes, and create a pull request. Once Casey approves, your changes will be
+merged.
 
 Indices and tables
 ==================
