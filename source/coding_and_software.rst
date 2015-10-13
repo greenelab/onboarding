@@ -12,3 +12,11 @@ license)?
 Licensing: How do we license code that our lab produces?
 
 Language: What languages do we use?
+
+Data Management: How are data preserved, analyzed, etc.
+
+IP/Openness: How is sharing managed? Is IP a concern?
+
+Record Keeping: How do we record our actions?
+
+Reproducibility: How do we ensure our analyses are reproducible?
