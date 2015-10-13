@@ -21,7 +21,6 @@ Contents:
    infrastructure
    communication
    coding_and_software
-   social_media_policy
    canonical_reads
    project
 
