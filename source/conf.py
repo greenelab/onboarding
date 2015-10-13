@@ -267,7 +267,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   (master_doc, 'LabCarpentry', u'Lab Carpentry Documentation',
-   author, 'LabCarpentry', 'One line description of project.',
+   author, 'LabCarpentry', 'Templates for a better research environment.',
    'Miscellaneous'),
 ]
 
