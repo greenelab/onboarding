@@ -17,9 +17,9 @@ you out with a programming question, congratulate or thank them. Slack includes
 you). When one member accumulates enough bonus.ly points, they take the lab out
 to lunch (Casey pays).
 
-Social Media: Lab members are encouraged to communicate through social media.
-If lab members mark a lab affiliation (e.g. in a profile, or in discussions),
-they are expected to follow the lab code of conduct.
+Social Media: Lab members are encouraged to communicate through public social
+media, and if you choose to do so then you are expected to follow our code of
+conduct.
 
 Projects: By the nature of our research, lab members will often have the
 opportunity to participate projects managed via private or publicly accessible
