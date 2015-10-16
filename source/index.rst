@@ -15,7 +15,6 @@ Welcome to the Greene Laboratory
    communication
    infrastructure
    coding_and_software
-   canonical_reads
 
 How to Modify this Document
 ===========================
