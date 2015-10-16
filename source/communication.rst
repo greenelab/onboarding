@@ -1,14 +1,15 @@
 Communication
 =============
 
-General:
+General
+-------
 
-Slack: We use slack for rapid communication within the lab. If you'd send an
+**Slack:** We use slack for rapid communication within the lab. If you'd send an
 e-mail to someone within the lab, try a slack message instead. This helps to
 keep communications in one place, and Casey commits to respond to slacks (not
 necessarily immediately, but the same guarantee is not made for e-mail).
 
-Bonus.ly: We recognize that people regularly go above and beyond lab
+**Bonus.ly:** We recognize that people regularly go above and beyond lab
 expectations. We wanted a way to recognize each other when this happens. We
 now use bonus.ly. This allows lab members to send a quick virtual thank you
 note and/or pat on the back. If someone’s paper gets accepted or someone helps
@@ -17,11 +18,11 @@ you out with a programming question, congratulate or thank them. Slack includes
 you). When one member accumulates enough bonus.ly points, they take the lab out
 to lunch (Casey pays).
 
-Social Media: Lab members are encouraged to communicate through public social
+**Social Media:** Lab members are encouraged to communicate through public social
 media, and if you choose to do so then you are expected to follow our code of
 conduct.
 
-Projects: By the nature of our research, lab members will often have the
+**Projects:** By the nature of our research, lab members will often have the
 opportunity to participate projects managed via private or publicly accessible
 source code repositires. In these cases, lab members are expected to: follow
 the code of conduct; expect that private repositories will be world accessible;
@@ -30,8 +31,9 @@ issue on a project on bitbucket, it would not be appropriate for Casey to reply
 "I'll drop by your desk and show you how to solve that.").
 
 Meetings:
+-------
 
-Scrum: The scrum is a 10 minute or less meeting that is held every day. It is
+**Scrum:** The scrum is a 10 minute or less meeting that is held every day. It is
 currently scheduled for 9:30 AM. The goal of the scrum is to communicate
 recent progress and objectives. The scrum is held both in person and via our
 appear.in channel. Those who work partial schedules (part-time employees,
@@ -43,7 +45,7 @@ each scrum, every lab member provides a short summary of:
     3. Who, if anyone, is blocking him/her?
     4. Who, if anyone, is he/she blocking?
 
-Lab Meeting: Lab meeting is held weekly at a location at Penn and also via our
+**Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via our
 appear.in channel. Scheduling is managed via a google spreadsheet. See the
 #labmeeting slack channel's header for a link. Lab meeting consists of three
 components described below.
@@ -52,7 +54,7 @@ components described below.
     * Code Review
     * Braintrust
 
-Journal Club: We have a 15 minute journal club to start  each lab meeting. For
+**Journal Club:** We have a 15 minute journal club to start  each lab meeting. For
 journal club, prepare a presentation of 4-5 papers. All except for one should
 have been published since your last journal club presentation. The presentation
 should be simple and shouldn’t take much time to prepare. During the
@@ -65,17 +67,17 @@ ongoing in the lab.For each paper, the presentation should consist of:
 could also be an initial result that sets context).
     3. The results figure that convinced you to pick this paper.
 
-Braintrust: Present something that you wish to talk about to the group. This
+**Braintrust:** Present something that you wish to talk about to the group. This
 could be a confounding result, an interesting result, an analysis that isn’t
 working, etc. This is your chance to have the group focus on and help you solve
 a challenge that you’re facing.
 
-Code Review: This alternates with braintrust. Code review order is maintained
+**Code Review:** This alternates with braintrust. Code review order is maintained
 in the scheduling document as well (see “CR Order” column). For the code
 review, be prepared to discuss an item of code that you’re happy with and an
 item of code that you struggled with for any reason.
 
-Individual Meetings: We schedule weekly individual meetings. Once you join the
+**Individual Meetings:** We schedule weekly individual meetings. Once you join the
 lab, contact Casey to set up a time. These are set up for a term to accomodate
 class schedules. We don’t reschedule these meetings by default if one of the
 parties (Casey or you) are out of town, so if you do want to meet in a week but
