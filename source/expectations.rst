@@ -14,7 +14,8 @@ your project. Within your project, Casey will serve as a sounding board for
 ideas, will help you plan your project, and will help to devise experiments to
 test your hypotheses. To facilitate your success, Casey will help you to plan
 your training, to devise a career plan that can take you to where you want to
-go, to advise you on your project-risk portfolio, and other elements of
+go, to advise you on your project-risk portfolio, and to provide guidance on
+other elements of career and project development as needed.
 
 **Code of Conduct:** All members of the lab, along with visitors, are expected to
 agree with this code of conduct. We will enforce this code. We expect
@@ -46,6 +47,17 @@ http://github.com/leftlogic/confcodeofconduct.com.
 
 We expect members to follow these guidelines at any lab-related event.
 
-**Authorship:** How do we confer authorship?
+**Authorship:** Our lab follows the `Perelman School of Medicine Authorship
+Policy <https://www.med.upenn.edu/policy/user_documents/2_Announcement_MemoLJLRE_PerelmanSchoolofMedicineAuthorshipPolicy.pdf>`_.
+These guidelines are derived from ICMJE's Uniform Requirements for Manuscripts
+Submitted to Biomedical Journals.
 
-**Ethics:** How do we decide what is right and wrong / who lives and who dies
+**Ethics:** We expect lab members to be honest in scientific communications
+both within and outside the lab. We expect that lab members will design
+experiments in a manner that minimizes both bias and self deception. We
+expect that lab members will keep agreements, be careful, and share their code
+and results openly with the scientific community. We expect that credit will be
+given where credit is due, including in scientific writing. Plagiarism is not
+tolerated. While a full enumeration of ethical considerations is outside of the
+scope of this document, please don't hesitate to raise any questions or concerns
+that you have.
