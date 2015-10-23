@@ -23,6 +23,12 @@ license. Unless a funding agency requires something different, we'll use this.
 If you have questions or concerns about licensing, feel free to raise them in
 Slack.
 
+**IP/Openness:** This is handled in accordance with the instructions from our
+research sponsors and university guidance. Lab members must follow the Penn
+Participation Agreement and the agreements with our sponsors. These often allow,
+encourage, or require openness. If you have concerns at any point, set up a
+meeting with casey to discuss these concerns.
+
 **Data Management:** For publicly available data, scripts used to download and
 process these data should be preserved, as should the versions of items used
 in processing (e.g. probe to gene mappings). These items should be version
@@ -31,12 +37,6 @@ to facilitate re-use, but the process to regenerate these files from publicly
 available data should be preserved. When data are generated, they should be
 stored in a location where they are backed up and uploaded to the relevant
 database as soon as possible (e.g. GEO for gene expression, SRA for sequencing).
-
-**IP/Openness:** This is handled in accordance with the instructions from our
-research sponsors and university guidance. Lab members must follow the Penn
-Participation Agreement and the agreements with our sponsors. These often allow,
-encourage, or require openness. If you have concerns at any point, set up a
-meeting with casey to discuss these concerns.
 
 **Record Keeping:** How do we record our actions?
 
