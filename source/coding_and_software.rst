@@ -50,6 +50,14 @@ If you aren't keeping your code in a greenelab team bitbucket or github
 repository then from a software development point of view, you're not doing
 work or meeting expectations. We expect that repositories will contain failures
 (e.g. proof-of-concept code that didn't work). This is ok. Being able to find
-them will make sure we don't make the same failure twice.
+them will make sure we don't make the same failure twice. Non-code documents
+should be kept in a place that maintains version history (e.g. dropbox for word
+documents).
 
-**Reproducibility:** How do we ensure our analyses are reproducible?
+**Reproducibility:** We expect all lab members to maintain code that performs
+reproducible analyses. This can be in the form of makefiles, shell scripts, or
+other automation approaches that allow analyses to be automatically performed.
+We expect that these scripts, including those to generate figures in papers
+generated as a consequence of such analyses, will be included in source control
+repositories (see Record Keeping) and made publicly available before or
+concurrent with manuscript publication.
