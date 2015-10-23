@@ -21,8 +21,8 @@ How to Modify this Document
 
 This is a living document. The repository is at
 http://bitbucket.org/greenelab/onboarding/. To make changes, fork, make
-changes, and create a pull request. Once Casey approves, your changes will be
-merged.
+changes, and create a pull request. Once the pull request is discussed and
+approved, your changes will be merged.
 
 Indices and tables
 ==================
