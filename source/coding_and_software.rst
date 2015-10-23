@@ -45,6 +45,11 @@ available data should be preserved. When data are generated, they should be
 stored in a location where they are backed up and uploaded to the relevant
 database as soon as possible (e.g. GEO for gene expression, SRA for sequencing).
 
-**Record Keeping:** How do we record our actions?
+**Record Keeping:** Code that isn't in a version control service doesn't exist.
+If you aren't keeping your code in a greenelab team bitbucket or github
+repository then from a software development point of view, you're not doing
+work or meeting expectations. We expect that repositories will contain failures
+(e.g. proof-of-concept code that didn't work). This is ok. Being able to find
+them will make sure we don't make the same failure twice.
 
 **Reproducibility:** How do we ensure our analyses are reproducible?
