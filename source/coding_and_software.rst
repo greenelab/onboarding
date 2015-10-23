@@ -1,6 +1,13 @@
 Coding and Software
 ===================
 
+**Pride:** We expect lab members to sign their code. To quote from *The
+Pragmatic Programmer*, "Craftsmen of an earlier age were proud to sign their
+work. You should be, too... People should see your name on a piece of code and
+expect it to be solid, well written, tested, and documented." While some code
+will be proof-of-concept code, it should be of a form that it inspires
+confidence.
+
 **Language:** We write code for our analyses in Python. We have standardized on a
 language because anyone in the lab needs to be able to come in and understand
 analytical code. Code for plotting can be Python or R. Webserver interface code
