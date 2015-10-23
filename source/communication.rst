@@ -30,7 +30,7 @@ and to communicate via the project-specific medium (e.g. if Rene reported an
 issue on a project on bitbucket, it would not be appropriate for Casey to reply
 "I'll drop by your desk and show you how to solve that.").
 
-Meetings:
+Meetings
 -------
 
 **Scrum:** The scrum is a 10 minute or less meeting that is held every day. It is
