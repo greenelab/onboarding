@@ -53,5 +53,5 @@ Delete all unncessary whitespace.
 Set all constants at the beginning of the file, tuned parameters, defaults, etc.
 
 
-**Code that uses a random seed [special case of random seed]**
+**Code that uses a random seed [special case of constants]**
 Set random seed at the beginning of the file or make this a command line (or passed) parameter with a defined default.
