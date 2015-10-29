@@ -49,5 +49,9 @@ Try to stick to around 80 characters per line for readability
 Delete all unncessary whitespace.
 
 
-**Code that uses a random seed**
-Set random seed at the beginning of the file.
+**Code with constants**
+Set all constants at the beginning of the file, tuned parameters, defaults, etc.
+
+
+**Code that uses a random seed [special case of random seed]**
+Set random seed at the beginning of the file or make this a command line (or passed) parameter with a defined default.
