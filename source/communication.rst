@@ -81,9 +81,6 @@ is to:
 1. Discuss challenges.
 2. Plan strategy (project related, personal career, etc).
 
-External Communication
-----------------------
-
 **IP/Openness:** This is handled in accordance with the instructions from our
 research sponsors and university guidance. Lab members must follow the Penn
 Participation Agreement and the agreements with our sponsors. These often allow,

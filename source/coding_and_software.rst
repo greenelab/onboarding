@@ -26,6 +26,7 @@ We will only publish using code that is held in a Greenelab repository that has
 gone through the review process described below.
 
 **Creating a Greenelab Repository:**
+
 1) Create a repository under the team accout.
 2) Immediately fork this repository into one that your user account owns.
 3) Make commits to your own repository, and move code back to the Greenelab
@@ -36,6 +37,8 @@ Code moves from user repositories to Greenelab repositories through a process
 of code review. Code review is handled through pull requests. The process is
 described briefly below. Feel free to ask for guidance if you are uncomfortable
 with the process.
+**We will revoke write access for failing to adhere to these rules.**
+
 1) Begin with your own repository where code has been committed.
 2) Create a pull request into the repository owned by Greenelab.
 3) Name potential reviewers for your pull request.
@@ -43,8 +46,7 @@ with the process.
 have passed, you or a reviewer may merge your pull request. The only exception
 to this policy is this repository ("onboarding") where, in addition to the
 above rules, Casey must also approve the pull request.
-**Failure to adhere to these guidelines will result in a loss of write
-permissions for lab repositores.*
+
 
 **Reviewing Pull Requests:**
 We expect that all lab members will participate in review of pull requests. If
