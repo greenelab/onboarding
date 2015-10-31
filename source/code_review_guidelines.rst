@@ -1,7 +1,8 @@
 Code Review Guidelines
 ========================
 
-(This part taken from the "Coding and Software" section from "onboarding" repository)
+(This part taken from the "Coding and Software" section from "onboarding"
+repository)
 
 **Pride:** We expect lab members to sign their code. To quote from *The
 Pragmatic Programmer*, "Craftsmen of an earlier age were proud to sign their
@@ -21,8 +22,8 @@ to understand to someone who is looking at the code for the first time
 (e.g. not "a", "b", "x", etc.).
 
 
-**Commenting:** We expect docstrings for functions, comments at the top of scripts
-to describe:
+**Commenting:** We expect docstrings for functions, comments at the top of
+scripts to describe:
 
     1. Their function
     2. Their inputs/arguments
@@ -50,8 +51,10 @@ Delete all unncessary whitespace.
 
 
 **Code with constants**
-Set all constants at the beginning of the file, tuned parameters, defaults, etc.
+Set all constants at the beginning of the file, tuned parameters, defaults,
+etc.
 
 
 **Code that uses a random seed [special case of constants]**
-Set random seed at the beginning of the file or make this a command line (or passed) parameter with a defined default.
+Set random seed at the beginning of the file or make this a command line (or
+passed) parameter with a defined default.
