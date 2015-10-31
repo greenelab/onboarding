@@ -18,9 +18,9 @@ you out with a programming question, congratulate or thank them. Slack includes
 you). When one member accumulates enough bonus.ly points, they take the lab out
 to lunch (Casey pays).
 
-**Social Media:** Lab members are encouraged to communicate through public social
-media, and if you choose to do so then you are expected to follow our code of
-conduct.
+**Social Media:** Lab members are encouraged to communicate through public
+social media, and if you choose to do so then you are expected to follow our
+code of conduct.
 
 **Projects:** By the nature of our research, lab members will often have the
 opportunity to participate projects managed via private or publicly accessible
@@ -31,7 +31,7 @@ issue on a project on bitbucket, it would not be appropriate for Casey to reply
 "I'll drop by your desk and show you how to solve that.").
 
 Meetings
--------
+--------
 
 **Scrum:** The scrum is a 10 minute or less meeting that is held every day. It is
 currently scheduled for 9:30 AM. The goal of the scrum is to communicate
@@ -47,11 +47,10 @@ each scrum, every lab member provides a short summary of:
 
 **Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via our
 appear.in channel. Scheduling is managed via a google spreadsheet. See the
-#labmeeting slack channel's header for a link. Lab meeting consists of three
+#labmeeting slack channel's header for a link. Lab meeting consists of two
 components described below.
 
     * Journal Club
-    * Code Review
     * Braintrust
 
 **Journal Club:** We have a 15 minute journal club to start  each lab meeting. For
@@ -72,11 +71,6 @@ could be a confounding result, an interesting result, an analysis that isn’t
 working, etc. This is your chance to have the group focus on and help you solve
 a challenge that you’re facing.
 
-**Code Review:** This alternates with braintrust. Code review order is maintained
-in the scheduling document as well (see “CR Order” column). For the code
-review, be prepared to discuss an item of code that you’re happy with and an
-item of code that you struggled with for any reason.
-
 **Individual Meetings:** We schedule weekly individual meetings. Once you join the
 lab, contact Casey to set up a time. These are set up for a term to accomodate
 class schedules. We don’t reschedule these meetings by default if one of the
@@ -86,3 +80,12 @@ is to:
 
 1. Discuss challenges.
 2. Plan strategy (project related, personal career, etc).
+
+External Communication
+----------------------
+
+**IP/Openness:** This is handled in accordance with the instructions from our
+research sponsors and university guidance. Lab members must follow the Penn
+Participation Agreement and the agreements with our sponsors. These often allow,
+encourage, or require openness. If you have concerns at any point, set up a
+meeting with Casey to discuss these concerns.
