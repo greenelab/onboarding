@@ -40,7 +40,7 @@ described briefly below. Feel free to ask for guidance if you are uncomfortable
 with the process.
 **We will revoke write access for failing to adhere to these rules.**
 
-1) Begin with your own repository where code has been committed.
+1) Make changes to your code and commit them in your own repository first.
 2) Create a pull request into the repository owned by Greenelab.
 3) Name potential reviewers for your pull request.
 4) Once at least one lab member has approved your pull request **and** 24 hours
