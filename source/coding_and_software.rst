@@ -18,12 +18,13 @@ this. If you have questions or concerns about licensing, feel free to raise
 them in Slack.
 
 **Version Control Services:**
-We have Greenelab accounts on both `bitbucket <https://bitbucket.org>`_ and
-`github <https://github.com>`_. We expect that lab members will maintain their
-code in repositories under these team accounts. We do not want lab members to
-commit directly to these though. Instead commits happen as described below.
-We will only publish using code that is held in a Greenelab repository that has
-gone through the review process described below.
+We have Greenelab accounts on both
+`bitbucket <https://bitbucket.org/greenelab>`_ and
+`github <https://github.com/greenelab>`_. We expect that lab members will
+maintain their code in repositories under these team accounts. We do not want
+lab members to commit directly to these though. Instead commits happen as
+described below. We will only publish using code that is held in a Greenelab
+repository that has gone through the review process described below.
 
 **Creating a Greenelab Repository:**
 
@@ -52,14 +53,15 @@ above rules, Casey must also approve the pull request.
 We expect that all lab members will participate in review of pull requests. If
 you get named by the submitter, it's courteous to review the request. We have
 created a checklist to facilitate review. As a reviewer, you are responsible
-for making sure that all checklist guidelines are followed.
+for making sure that all :doc:`checklist <code_review_guidelines>` guidelines
+are followed.
 
 **Projects that didn't work:**
 We expect that repositories will contain failures (e.g. proof-of-concepts that
 didn't work). This is ideal. Being able to find them will make sure we don't
 make the same failure twice.
 
-**Non-Code Versioning: **
+**Non-Code Versioning:**
 Non-code documents should be kept in a place that maintains version history
 (e.g. dropbox for word documents). We maintain a dropbox for business account
 for these purposes.
