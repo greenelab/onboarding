@@ -1,5 +1,5 @@
 Infrastructure Guide
--------------
+--------------------
 
 **Compute Resources:** Lab members are provided with a desktop. For rotation
 and undergraduate students, these machines may be shared. For full time
