@@ -59,5 +59,7 @@ expect that lab members will keep agreements, be careful, and share their code
 and results openly with the scientific community. We expect that credit will be
 given where credit is due, including in scientific writing. Plagiarism is not
 tolerated. While a full enumeration of ethical considerations is outside of the
-scope of this document, please don't hesitate to raise any questions or concerns
-that you have.
+scope of this document, Penn provides a `handbook
+<https://provost.upenn.edu/uploads/media_items/ethics-handbook.original.pdf>`_
+that we recommend. In addition, please don't hesitate to raise any questions or
+concerns that you have at any point with Casey.
