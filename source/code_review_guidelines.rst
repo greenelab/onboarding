@@ -1,4 +1,5 @@
 .. _code-review-checklist:
+
 Code Review Checklist
 ========================
 
@@ -13,7 +14,7 @@ Code taken from elsewhere is properly acknowledged and compatible with the
 license.
 
 **Style Guide:**
-The code follows pep8 (we advise that each person runs a linter (if you're not
+The code follows `pep8 <https://www.python.org/dev/peps/pep-0008/>`_ (we advise that each person runs a linter (if you're not
 sure -- ask! -- as part of their development environment).
 
 **Variable and Function Names:**
