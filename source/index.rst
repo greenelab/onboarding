@@ -30,5 +30,5 @@ Additional Resources
 .. toctree::
    :maxdepth: 1
 
-   code_review_guidelines
+   code_review_checklist
    infrastructure
