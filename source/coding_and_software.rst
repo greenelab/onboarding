@@ -1,5 +1,5 @@
 Source Code, Data, and Reproducibility
--------------
+--------------------------------------
 
 **Pride:** We expect lab members to sign their code. To quote from *The
 Pragmatic Programmer*, "Craftsmen of an earlier age were proud to sign their
@@ -31,7 +31,7 @@ repository that has gone through the review process described below.
 1) Create a repository under the team accout.
 2) Immediately fork this repository into one that your user account owns.
 3) Make commits to your own repository, and move code back to the Greenelab
-repository as described below.
+   repository as described below.
 
 **Getting Code into Greenelab Repositories:**
 Code moves from user repositories to Greenelab repositories through a process
@@ -43,17 +43,17 @@ with the process.
 1) Make changes to your code and commit them in your own repository first.
 2) Create a pull request into the repository owned by Greenelab.
 3) Name potential reviewers for your pull request.
-4) Once at least one lab member has approved your pull request **and** 24 hours
-have passed, you or a reviewer may merge your pull request. The only exception
-to this policy is this repository ("onboarding") where, in addition to the
-above rules, Casey must also approve the pull request.
+4) Once at least one lab member has approved your pull request **and** 24
+   hours have passed, you or a reviewer may merge your pull request. The only
+   exception to this policy is this repository ("onboarding") where, in
+   addition to the above rules, Casey must also approve the pull request.
 
 
 **Reviewing Pull Requests:**
 We expect that all lab members will participate in review of pull requests. If
 you get named by the submitter, it's courteous to review the request. We have
 created a checklist to facilitate review. As a reviewer, you are responsible
-for making sure that all :doc:`checklist <code_review_guidelines>` guidelines
+for making sure that all :ref:`checklist <code-review-checklist>` guidelines
 are followed.
 
 **Projects that didn't work:**
