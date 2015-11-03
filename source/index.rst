@@ -15,7 +15,6 @@ Onboarding Information
    expectations
    communication
    coding_and_software
-   infrastructure
 
 How to Modify this Document
 ---------------------------
@@ -31,3 +30,4 @@ Additional Resources
    :maxdepth: 1
 
    code_review_guidelines
+   infrastructure

@@ -30,6 +30,12 @@ and to communicate via the project-specific medium (e.g. if Rene reported an
 issue on a project on bitbucket, it would not be appropriate for Casey to reply
 "I'll drop by your desk and show you how to solve that.").
 
+**IP/Openness:** This is handled in accordance with the instructions from our
+research sponsors and university guidance. Lab members must follow the Penn
+Participation Agreement and the agreements with our sponsors. These often allow,
+encourage, or require openness. If you have concerns at any point, set up a
+meeting with Casey to discuss these concerns.
+
 Meetings
 --------
 
@@ -80,9 +86,3 @@ is to:
 
 1. Discuss challenges.
 2. Plan strategy (project related, personal career, etc).
-
-**IP/Openness:** This is handled in accordance with the instructions from our
-research sponsors and university guidance. Lab members must follow the Penn
-Participation Agreement and the agreements with our sponsors. These often allow,
-encourage, or require openness. If you have concerns at any point, set up a
-meeting with Casey to discuss these concerns.
