@@ -1,6 +1,6 @@
 .. _code-review-checklist:
 Code Review Checklist
--------------
+---------------------
 
 **Pride:**
 We expect lab members to sign their code. The code is signed.
