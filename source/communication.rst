@@ -1,8 +1,8 @@
 Communication
-=============
+-------------
 
 General
--------
+~~~~~~~~~~~~~
 
 **Slack:** We use slack for rapid communication within the lab. If you'd send an
 e-mail to someone within the lab, try a slack message instead. This helps to
@@ -37,7 +37,7 @@ encourage, or require openness. If you have concerns at any point, set up a
 meeting with Casey to discuss these concerns.
 
 Meetings
---------
+~~~~~~~~~~~~~
 
 **Scrum:** The scrum is a 10 minute or less meeting that is held every day. It is
 currently scheduled for 9:30 AM. The goal of the scrum is to communicate

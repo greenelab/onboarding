@@ -1,5 +1,5 @@
 Source Code, Data, and Reproducibility
-===================
+-------------
 
 **Pride:** We expect lab members to sign their code. To quote from *The
 Pragmatic Programmer*, "Craftsmen of an earlier age were proud to sign their

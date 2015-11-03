@@ -1,5 +1,5 @@
 Mission Statement
-=================
+-----------------
 
 We view our core purpose as the development of methodological advances and
 integrative systems that make analysis of big data, particularly gene

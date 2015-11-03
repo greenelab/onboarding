@@ -1,5 +1,5 @@
 Canonical Reads
-===============
+-------------
 
  * Licensing
 
@@ -11,7 +11,7 @@ Canonical Reads
  * Other
 
    * Stalzer & Mentzel
- 
+
  * Lab
 
    * Uri Alon
@@ -21,4 +21,3 @@ Canonical Reads
  * Open Source
 
    * Producing OSS
-

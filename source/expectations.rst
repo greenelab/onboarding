@@ -1,5 +1,5 @@
 Expectations
-============
+------------
 
 **Your role:** We expect that you will take primary responsibility for the success
 of your research project and career development. As a member of the lab, you
