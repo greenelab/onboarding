@@ -29,4 +29,4 @@ For other suppliers where a credit card purchase is required, you will need to
 fill out a `p-card order form
 <https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/p-card-order-form.pdf>`_.
 In either case, the completed form should be sent to
-phorders@mail.med.upenn.edu and Casey should be cc'd on the email.
+phorders\@mail.med.upenn.edu and Casey should be cc'd on the email.
