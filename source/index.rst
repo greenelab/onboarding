@@ -31,4 +31,5 @@ Additional Resources
    :maxdepth: 1
 
    code_review_checklist
+   deployment_checklist
    infrastructure
