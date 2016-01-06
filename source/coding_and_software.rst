@@ -48,6 +48,12 @@ with the process.
    exception to this policy is this repository ("onboarding") where, in
    addition to the above rules, Casey must also approve the pull request.
 
+**Composition of Pull Requests:**
+Each pull request may contain one or more changesets. In keeping with good 
+source control practice, each changeset should contain *all* changes necessary 
+for a particular fix or update. In addition, each pull request should relate to
+no more than one functional change to the code base you are updating. This 
+makes life a bit easier for the lab members you ask to review the pull request.
 
 **Reviewing Pull Requests:**
 We expect that all lab members will participate in review of pull requests. If
