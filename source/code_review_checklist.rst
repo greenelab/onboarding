@@ -14,10 +14,10 @@ Code taken from elsewhere is properly acknowledged and compatible with the
 license.
 
 **Style Guide:**
-The code follows `pep8 <https://www.python.org/dev/peps/pep-0008/>`_ (we
+The code follows `pep8 <https://www.python.org/dev/peps/pep-0008/>`_. We
 advise that each person run a linter (if you're not sure -- `ask
-<https://greenelab.slack.com/messages/codereview/>`_! -- as part of their
-development environment).
+<https://greenelab.slack.com/messages/codereview/>`_!) as part of their
+development environment.
 
 **Variable and Function Names:**
 Variable names are descriptive and interpretable to someone looking at this
