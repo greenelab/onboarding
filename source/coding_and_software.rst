@@ -52,8 +52,9 @@ with the process.
 Each pull request may contain one or more changesets. In keeping with good 
 source control practice, each changeset should contain *all* changes necessary 
 for a particular fix or update. In addition, each pull request should relate to
-no more than one functional change to the code base you are updating. This 
-makes life a bit easier for the lab members you ask to review the pull request.
+no more than one functional area in the code base you are updating. Keeping 
+the pull request focused to one area makes it easier for your reviewers to 
+provide thoughtful feedback.
 
 **Reviewing Pull Requests:**
 We expect that all lab members will participate in review of pull requests. If
