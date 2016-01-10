@@ -33,6 +33,8 @@ repository that has gone through the review process described below.
 3) Make commits to your own repository, and move code back to the Greenelab
    repository as described below.
 
+.. _pull-request-process:
+
 **Getting Code into Greenelab Repositories:**
 Code moves from user repositories to Greenelab repositories through a process
 of code review. Code review is handled through pull requests. The process is
