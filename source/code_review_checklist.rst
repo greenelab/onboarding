@@ -14,10 +14,9 @@ Code taken from elsewhere is properly acknowledged and compatible with the
 license.
 
 **Style Guide:**
-The code follows `pep8 <https://www.python.org/dev/peps/pep-0008/>`_. We
-advise that each person run a linter (if you're not sure -- `ask
-<https://greenelab.slack.com/messages/codereview/>`_!) as part of their
-development environment.
+The code follows :pep:`8`. We advise that each person run a linter (if you're 
+not sure -- `ask <https://greenelab.slack.com/messages/codereview/>`_!) as part 
+of their development environment.
 
 **Variable and Function Names:**
 Variable names are descriptive and interpretable to someone looking at this
@@ -41,10 +40,9 @@ All trivial imports are at the top of the file.
 Lines are 80 characters or fewer. This applies to **all** text under revision 
 control with the exception of data files that must adhere to a particular file 
 format that does not allow for line "folding" where necessary. This rule is 
-already covered well in `pep8 <https://www.python.org/dev/peps/pep-0008/>`_ but 
-called out here to clarify that we apply it to more than Python code. One
-reason for this is to aid in readability of ``diff`` output when performing 
-code reviews.
+already covered well in :pep:`8` but called out here to clarify that we apply 
+it to more than Python code. One reason for this is to aid in readability of 
+``diff`` output when performing code reviews.
 
 **Whitespace:**
 There is no unncessary whitespace.
