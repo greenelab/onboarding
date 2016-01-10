@@ -69,7 +69,7 @@ ongoing in the lab.For each paper, the presentation should consist of:
 
     1. A title slide
     2. An overview slide (usually a flow-chart of some sort from the paper,
-could also be an initial result that sets context).
+       could also be an initial result that sets context).
     3. The results figure that convinced you to pick this paper.
 
 **Braintrust:** Present something that you wish to talk about to the group. This
