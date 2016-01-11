@@ -7,6 +7,10 @@ helpful. Please submit a pull request if you have additional resources that
 should be listed here!
 
 * Source control: `Bitbucket <http://bitbucket.org/greenelab/>`_
+
+  * tutorials: `Bitbucket Cloud Documentation Home 
+    <https://confluence.atlassian.com/bitbucket/>`_
+
 * Database: `PostgreSQL <http://www.postgresql.org>`_ 
 
   * docs: http://www.postgresql.org/docs/manuals
@@ -55,3 +59,6 @@ should be listed here!
 
   * `ReST <http://docutils.sourceforge.net/rst.html>`_
   * `Sphinx <http://sphinx-doc.org>`_
+
+    * video: https://www.youtube.com/watch?v=oJsUvBQyHBs
+
