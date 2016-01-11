@@ -3,18 +3,14 @@
 Deployment Checklist
 --------------------
 
-**Documentation:**
-All steps to deploy a project are explicitly written down and, wherever 
-possible, fully automated to ensure consistency and repeatability. For web 
-service deployments, we have found `Fabric <http://www.fabfile.org>`_ to be a 
-valuable tool.
-
-**Source Code Management:**
-All source files that are to be deployed must be managed using a source control
-system as described under :doc:`Source Code, Data, and Reproducibility 
-<coding_and_software>`. The *deployment* procedure should not assume that code 
-will be deployed from a `default` or `master` code branch and must make it 
-simple to select a branch or specific revision to deploy. (This makes it 
-easier to roll back flawed updates and deploy hot fixes while preserving our 
-policy that all code must be reviewed before entering the GreeneLab Bitbucket 
-repository.)
+* If this deployment fixes a bug, a unit test has been written to check for 
+  regressions.
+* Unit tests have passed.
+* Documentation has been built and is ready for ReadTheDocs or an external 
+  provider.
+* All steps for deployment are written down or, ideally, fully automated.
+* All source files are under version control as described in 
+  ":doc:`coding_and_software`."
+* Deployment does not assume that code will be deployed from a
+  ``default`` or ``master`` code branch. Ideally, the automated deployment 
+  scripts will accept a branch or specific revision as a parameter.
