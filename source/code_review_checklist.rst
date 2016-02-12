@@ -14,7 +14,7 @@ Code taken from elsewhere is properly acknowledged and compatible with the
 license.
 
 **Style Guide:**
-The code follows :pep:`8`. We require that each person run a linter (if you're 
+The code follows :pep:`8`. We expect that each person run a linter (if you're 
 not sure -- `ask <https://greenelab.slack.com/messages/codereview/>`_!) as part 
 of their development environment.
 
