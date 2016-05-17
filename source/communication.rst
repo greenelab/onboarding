@@ -36,6 +36,11 @@ Participation Agreement and the agreements with our sponsors. These often allow,
 encourage, or require openness. If you have concerns at any point, set up a
 meeting with Casey to discuss these concerns.
 
+**Shared Calendar:** There is a shared calendar for members of the Greene lab.
+This has the time and location of group meeting, and is considered the most
+up to date information about individual availability. If you will be out of
+town for work or vacation, note this in the calendar.
+
 **Accounts**  Lab members are expected to have accounts for the following and be
 members of the specified (organizations) if applicable:
   * BitBucket (GreeneLab)
