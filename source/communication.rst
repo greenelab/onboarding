@@ -36,6 +36,8 @@ Participation Agreement and the agreements with our sponsors. These often allow,
 encourage, or require openness. If you have concerns at any point, set up a
 meeting with Casey to discuss these concerns.
 
+**Mediums of Communication**  Lab members are expected to have accounts for the following (and be members of the Greene group if applicable): BitBucket, GitHub, Google Calender, Slack 
+
 Meetings
 ~~~~~~~~~~~~~
 
