@@ -47,6 +47,8 @@ members of the specified (organizations) if applicable:
   * GitHub (greenelab)
   * Google Calender (Shared Calendar)
   * Slack (GreeneLab)
+  * Bonus.ly (GreeneLab)
+  * Dropbox (permanent members)
 
 Meetings
 ~~~~~~~~~~~~~
