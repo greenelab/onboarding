@@ -15,7 +15,7 @@ license.
 
 **Style Guide:**
 Python code follows :pep:`8`. R code follows `Google's R Style Guide 
-<https://google.github.io/styleguide/Rguide.xml/>`_. We expect that each person 
+<https://google.github.io/styleguide/Rguide.xml>`_. We expect that each person 
 runs a linter (if you're not sure -- `ask 
 <https://greenelab.slack.com/messages/codereview/>`_!) as part of their 
 development environment.
