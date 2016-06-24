@@ -29,4 +29,4 @@ For other suppliers (such as Amazon.com) where a credit card purchase is require
 you will need to fill out a `p-card order form
 <https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/Procard_Documentation.xls>`_.
 In either case, the completed form should be sent to
-phorders\@mail.med.upenn.edu and Casey should be cc'd on the email.
+phorders\@mail.med.upenn.edu and Casey should be cc'd on the email. If instead you use a paper copy of either form, you must get Casey to sign the "Business Purpose" area of the form before submitting it to Human Resources.
