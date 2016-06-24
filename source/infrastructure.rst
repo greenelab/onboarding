@@ -27,6 +27,6 @@ vendors (check the `Penn Marketplace
 <https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/regular-vendor-purchase-form.xlsx>`_.
 For other suppliers where a credit card purchase is required, you will need to
 fill out a `p-card order form
-<https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/p-card-order-form.pdf>`_.
+<https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/Procard_Documentation.xls>`_.
 In either case, the completed form should be sent to
 phorders\@mail.med.upenn.edu and Casey should be cc'd on the email.
