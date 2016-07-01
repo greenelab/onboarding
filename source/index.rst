@@ -20,10 +20,10 @@ Onboarding Information
 How to Modify this Document
 ===========================
 
-This is a living document. The repository is at 
-`Bitbucket <http://bitbucket.org/greenelab/onboarding/>`_. To make changes, 
-fork, edit the files you wish, and create a pull request. The pull request 
-process is handled as described in the 
+This is a living document. The repository is at
+`Bitbucket <http://bitbucket.org/greenelab/onboarding/>`_. To make changes,
+fork, edit the files you wish, and create a pull request. The pull request
+process is handled as described in the
 :ref:`Getting Code into Greenelab Repositories <pull-request-process>`
 section of ":doc:`coding_and_software`."
 
@@ -36,3 +36,4 @@ Additional Resources
    code_review_checklist
    deployment_checklist
    infrastructure
+   newcomers_info
