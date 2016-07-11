@@ -35,7 +35,7 @@ https://www.facebook.com/groups/453686588142698/
 
 
 **Find a place to eat:**
-
+Penn food truck database: http://pennfoodtrucks.com/sort/genre/all/rating/
 **Public transportation:**
 Septa Bus Routes 30, 40, and 42 all have stops near Smilow
 LUCY Buses also stop near Smilow and are free to those with a Penn ID (http://www.septa.org/schedules/bus/pdf/LUCY.pdf)
