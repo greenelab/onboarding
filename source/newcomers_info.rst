@@ -74,8 +74,8 @@ balance to a bank account. You can also withdraw cash from an `automated teller`
 
 * Paying for Septa: $2.25/ride cash, 1 token/ride (1 token = $1.80, sold in
 * packs of 2 or more), monthly and weekly `TransPasses
-* <http://www.septa.org/fares/pass/transpass.html>`_ and `TrailPasses
-* <http://www.septa.org/fares/pass/transpass.html>`_ are available for purchase
+  <http://www.septa.org/fares/pass/transpass.html>`_ and `TrailPasses
+  <http://www.septa.org/fares/pass/transpass.html>`_ are available for purchase
 * or for loading onto a `Septa Key <http://www.septa.org/key>`_. The Penn
 * Bookstore sells tokens and passes. Token vending machines can be found on
 * campus in the basement of Houston Hall (on Spruce St, across from HUP) and the
