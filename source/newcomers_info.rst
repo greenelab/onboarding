@@ -72,14 +72,14 @@ balance to a bank account. You can also withdraw cash from an `automated teller`
 * The **Market-Frankford Line**, 34th & Market St. station is ~0.6 mi walk
   to/from Smilow.
 
-* Paying for Septa: $2.25/ride cash, 1 token/ride (1 token = $1.80, sold in
-* packs of 2 or more), monthly and weekly `TransPasses
+* Paying for Septa: $2.25/ride cash, 1 token/ride (1 token = $1.80, sold in packs
+  of 2 or more), monthly and weekly `TransPasses
   <http://www.septa.org/fares/pass/transpass.html>`_ and `TrailPasses
-  <http://www.septa.org/fares/pass/transpass.html>`_ are available for purchase
-* or for loading onto a `Septa Key <http://www.septa.org/key>`_. The Penn
-* Bookstore sells tokens and passes. Token vending machines can be found on
-* campus in the basement of Houston Hall (on Spruce St, across from HUP) and the
-* food court on 34th Walnut St (next to Starbucks).
+  <http://www.septa.org/fares/pass/transpass.html>`_ are available for purchase or
+  for loading onto a `Septa Key <http://www.septa.org/key>`_. The Penn Bookstore
+  sells tokens and passes. Token vending machines can be found on campus in the
+  basement of Houston Hall (on Spruce St, across from HUP) and the food court on
+  34th Walnut St (next to Starbucks).
 
 * `Penn Commuter Programs <http://cms.business-services.upenn.edu/parking/sustainable-commuting/public-transportation/faculty-and-staff/99-enroll0in-the-penn-commuter-program.html>`_:
   Buying tokens, TransPasses and TrailPasses with discount.
