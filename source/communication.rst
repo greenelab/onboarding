@@ -91,6 +91,17 @@ could be a confounding result, an interesting result, an analysis that isn’t
 working, etc. This is your chance to have the group focus on and help you solve
 a challenge that you’re facing.
 
+**Applied Imagination:** One hour monthly meetings designed to be used for big 
+ideas, brainstorming, extended discussion outside the scope of weekly lab 
+meeting, and other team endeavors. Topics can range from big questions like 
+“How do we get rid of dark pools of gene expression data?” or used to discuss 
+new methods and how they fit in with the lab mission (e.g., adversarial 
+networks). Individual lab members are expected to do some brief preparation 
+before the meeting (e.g., read provided papers/materials, come with a 
+few of ideas on the topic). The monthly meeting itself consists of group 
+brainstorming and/or discussion and wraps up with a list of action items 
+for follow up.
+
 **Individual Meetings:** We schedule weekly individual meetings. Once you join the
 lab, contact Casey to set up a time. These are set up for a term to accomodate
 class schedules. We don’t reschedule these meetings by default if one of the
