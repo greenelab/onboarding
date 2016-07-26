@@ -55,3 +55,8 @@ Any constants are specified at the beginning of the file.
 **Code that uses a random seed [special case of constants]**
 Code that uses a random seed is reproducible. This means that the seed can be
 set *and* a default value is specified.
+
+**API error handling**
+APIs should catch and handle anticipated errors (e.g. key doesn't exist, type
+mismatch in lookup) by identifying the source of the error (e.g. lookup failed
+with PK=XYZ) to the caller with as much precision as possible.
