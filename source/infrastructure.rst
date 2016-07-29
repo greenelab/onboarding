@@ -32,3 +32,15 @@ In either case, the completed form should be sent to
 phorders\@mail.med.upenn.edu and Casey should be CCed on the email. If instead you
 use a paper copy of either form, you must get Casey to sign the "Business Purpose"
 area of the form before handing it to Camie Minieri or Roz Rucker (who administer phorders).
+
+**Reimbursement:** Reimbursement is done using the Concur Business Travel & Expense Management
+Software Solution. First `login to Concur Expense <https://medley.isc-seo.upenn.edu/authentication/profile/concur?app=concurprod>`_
+using your PennKey. Under Profile Settings > Personal Information, fill in required information.
+Set the default Travel Approver to Jason Molli. Then ask Carmela (Camie) Minieri to make you eligible
+for expense reports on Concur, which takes at least a day for processing. You should then be able to
+submit expenses for reimbursement.
+
+There is mobile Concur app, which is useful for taking pictures of receipts. To setup the app,
+login to concur expense online and go to Profile Settings > Mobile Registration. You should see your
+username. Then click "create a mobile PIN", which will allow you to specify a password that you
+can use to login from the mobile app.
