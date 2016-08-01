@@ -38,8 +38,9 @@ should be listed here!
   * `Bootstrap <http://getbootstrap.com>`_
   * `AngularJS <https://angularjs.org>`_
 
-    * tutorial: https://thinkster.io/django-angularjs-tutorial
-    * book: `Mastering Web Application Development with AngularJS 
+    * official doc: https://docs.angularjs.org/
+    * tutorial: https://thinkster.io/django-angularjs-tutorial (most videl links not open to public)
+    * book: `Mastering Web Application Development with AngularJS (2013)
       <https://www.packtpub.com/web-development/mastering-web-application-development-angularjs>`_
 
   * `D3 <http://d3js.org>`_
