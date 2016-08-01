@@ -91,8 +91,8 @@ could be a confounding result, an interesting result, an analysis that isn’t
 working, etc. This is your chance to have the group focus on and help you solve
 a challenge that you’re facing.
 
-**Applied Imagination:** One hour monthly meetings designed to be used for big 
-ideas, brainstorming, extended discussion outside the scope of weekly lab 
+**Applied Imagination:** One hour per month, lab meetings will be dedicated to
+big ideas, brainstorming, extended discussion outside the scope of weekly lab 
 meeting, and other team endeavors. Topics can be big questions like 
 “How do we get rid of dark pools of gene expression data?” or the time can 
 be used to discuss new methods and how they fit in with the lab mission (e.g., 
