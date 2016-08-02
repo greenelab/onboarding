@@ -37,7 +37,9 @@ balance to a bank account. You can also withdraw cash from an `automated teller`
 Special considerations for Postdocs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Postdocs at Penn have unique tax considerations. See the `Biomedical Postdoctoral Council Tax Issues Page 
+Postdocs at Penn have unique tax considerations. Specifically, some postdocs may not 
+have Federal taxes withheld from their paycheck even though they are responsible for 
+these taxes. See the `Biomedical Postdoctoral Council Tax Issues Page 
 <http://www.med.upenn.edu/bpc/TaxIssues.shtml>`_ for more information. 
 
 2. Find a place to live:
