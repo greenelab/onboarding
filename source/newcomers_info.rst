@@ -34,6 +34,11 @@ balance to a bank account. You can also withdraw cash from an `automated teller`
 .. _online: https://www.visaprepaidprocessing.com/ADP/PayRoll/Home/Index
 .. _automated teller: https://www.visaprepaidprocessing.com/ADP/PayRoll/Program/ATMLocator?m=1
 
+Special considerations for Postdocs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Postdocs at Penn have unique tax considerations. See the `Biomedical Postdoctoral Council Tax Issues Page 
+<http://www.med.upenn.edu/bpc/TaxIssues.shtml>`_ for more information. 
 
 2. Find a place to live:
 ------------------------
