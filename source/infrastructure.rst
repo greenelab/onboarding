@@ -25,13 +25,17 @@ vendors (check the `Penn Marketplace
 <http://www.purchasing.upenn.edu/shopper/>`_), you need to fill out a
 `pharmacology requisition form
 <https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/regular-vendor-purchase-form.xlsx>`_.
+and send it to phorders\@mail.med.upenn.edu (Casey should be CCed on the email).
+
 For other suppliers (such as Amazon.com) where a credit card purchase is required,
-you will need to fill out a `p-card order form
-<https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/Procard_Documentation.xls>`_.
-In either case, the completed form should be sent to
-phorders\@mail.med.upenn.edu and Casey should be CCed on the email. If instead you
-use a paper copy of either form, you must get Casey to sign the "Business Purpose"
-area of the form before handing it to Camie Minieri or Roz Rucker (who administer phorders).
+you will need to:
+(1) Fill out a paper copy of `p-card order form
+<https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/p-card-order-form.pdf>`_.
+(2) Get Casey to sign the "Business Purpose" area of the form, then hand it to Camie Minieri
+    or Roz Rucker.
+(3) Instead of listing every item on the form, you can write the total sum of the order in the form
+    *only*. If you do so, please also send the details of your order (such as Amazon URLs) to Roz at
+    rucker@upenn.edu.
 
 **Reimbursement:** Reimbursement is done using the Concur Business Travel & Expense Management
 Software Solution. First `login to Concur Expense <https://medley.isc-seo.upenn.edu/authentication/profile/concur?app=concurprod>`_
