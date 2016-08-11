@@ -40,15 +40,15 @@ required, you will need to:
 1. Fill out a paper copy of `p-card order form
    <https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/p-card-order-form.pdf>`_.
 2. Get Casey to sign the **Business Purpose** area of the form, then hand it to
-   Camie Minieri or Roz Rucker.
+   **Camie Minieri** or **Roz Rucker**.
 3. Instead of listing every item on the form, you can write **only** the total
    sum of the order in the form. If you do so, please also send the details of
    your order (such as Amazon URLs) to Roz at rucker@upenn.edu.
 
 Reimbursement:
 --------------
-Reimbursement is done using the Concur Business Travel & Expense Management
-Software Solution:
+Reimbursement is done using the **Concur Business Travel & Expense Management
+Software Solution**:
 
 - First `login to Concur Expense
   <https://medley.isc-seo.upenn.edu/authentication/profile/concur?app=concurprod>`_
