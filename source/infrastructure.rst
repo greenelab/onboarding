@@ -10,13 +10,18 @@ optimize resource usage.
 
 **Accounts:** We have accounts with a number of key services. When a lab member
 joins, accounts should be created in:
+
 * Slack
+
 * Bonus.ly
+
 * Dropbox
 
 In addition, lab members should have accounts with bitbucket and github. These
 accounts should get added to our:
+
 * `bitbucket team account <https://bitbucket.org/greenelab/>`_ (Greenelab)
+
 * `github team account <https://github.com/greenelab/>`_ (Greenelab)
 
 **Purchasing:** There are two different purchasing procedures depending on
@@ -29,13 +34,16 @@ and send it to phorders\@mail.med.upenn.edu (Casey should be CCed on the email).
 
 For other suppliers (such as Amazon.com) where a credit card purchase is required,
 you will need to:
+
 (1) Fill out a paper copy of `p-card order form
 <https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/p-card-order-form.pdf>`_.
+
 (2) Get Casey to sign the "Business Purpose" area of the form, then hand it to Camie Minieri
-    or Roz Rucker.
+or Roz Rucker.
+
 (3) Instead of listing every item on the form, you can write the total sum of the order in the form
-    *only*. If you do so, please also send the details of your order (such as Amazon URLs) to Roz at
-    rucker@upenn.edu.
+*only*. If you do so, please also send the details of your order (such as Amazon URLs) to Roz at
+rucker@upenn.edu.
 
 **Reimbursement:** Reimbursement is done using the Concur Business Travel & Expense Management
 Software Solution. First `login to Concur Expense <https://medley.isc-seo.upenn.edu/authentication/profile/concur?app=concurprod>`_
