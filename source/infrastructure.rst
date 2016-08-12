@@ -1,8 +1,8 @@
 Infrastructure Guide
 ====================
 
-Compute Resources:
-------------------
+Compute Resources
+-----------------
 Lab members are provided with a desktop. For rotation and undergraduate
 students, these machines may be shared. For full time lab members, the
 operating system should be reinstalled when the member joins. Large-scale
@@ -10,8 +10,8 @@ computation and web hosting are performed via commercial cloud providers.
 Please discuss your project's computing needs with Casey to best optimize
 resource usage.
 
-Accounts:
----------
+Accounts
+--------
 We have accounts with a number of key services. When a lab member
 joins, accounts should be created in:
 
@@ -25,8 +25,8 @@ These accounts should get added to our:
 * `bitbucket team account <https://bitbucket.org/greenelab/>`_ (Greenelab)
 * `github team account <https://github.com/greenelab/>`_ (Greenelab)
 
-Purchasing:
------------
+Purchasing
+----------
 There are two different purchasing procedures depending on whether or not the
 vendor is an approved university vendor. For approved vendors
 (check the `Penn Marketplace <http://www.purchasing.upenn.edu/shopper/>`_),
@@ -44,10 +44,10 @@ required, you will need to:
 3. Instead of listing every item on the form, you can write "See attached below"
    and the total sum **only** in the form. If you do so, please also send the
    details of your order (such as Amazon URLs) to Roz (rucker@upenn.edu), who
-   will compile an detailed order form.
+   will compile a detailed order form.
 
-Reimbursement:
---------------
+Reimbursement
+-------------
 Reimbursement is done using the **Concur Business Travel & Expense Management
 Software Solution**:
 
