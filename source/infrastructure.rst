@@ -41,9 +41,10 @@ required, you will need to:
    <https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/p-card-order-form.pdf>`_.
 2. Get Casey to sign the **Business Purpose** area of the form, then hand it to
    **Camie Minieri** or **Roz Rucker**.
-3. Instead of listing every item on the form, you can write **only** the total
-   sum of the order in the form. If you do so, please also send the details of
-   your order (such as Amazon URLs) to Roz at rucker@upenn.edu.
+3. Instead of listing every item on the form, you can write "See attached below"
+   and the total sum **only** in the form. If you do so, please also send the
+   details of your order (such as Amazon URLs) to Roz (rucker@upenn.edu), who
+   will compile an detailed order form.
 
 Reimbursement:
 --------------
