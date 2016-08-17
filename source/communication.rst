@@ -53,57 +53,62 @@ members of the specified (organizations) if applicable:
 Meetings
 ~~~~~~~~~~~~~
 
-**Scrum:** The scrum is a 10 minute or less meeting that is held every day. It is
-currently scheduled for 9:30 AM. The goal of the scrum is to communicate
-recent progress and objectives. The scrum is held both in person and via our
-appear.in channel. Those who work partial schedules (part-time employees,
-undergraduate students) are only expected to scrum on days that they work. In
-each scrum, every lab member provides a short summary of:
+**Scrum:** The scrum is a 10 minute or less meeting that is held every day. It
+is currently scheduled for 9:30 AM. The goal of the scrum is to communicate
+recent progress and objectives. The scrum is held both in person and via a
+google hangouts link posted to the Slack #general channel. Those who work
+partial schedules (part-time employees, undergraduate students) are only
+expected to scrum on days that they work. In each scrum, every lab member
+provides a short summary of:
 
-    1. What he/she accomplished yesterday.
-    2. What he/she plans to accomplish today.
+    1. What specific item(s) he/she accomplished yesterday.
+    2. What specific item(s) he/she plans to accomplish today.
     3. Who, if anyone, is blocking him/her?
     4. Who, if anyone, is he/she blocking?
 
-**Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via our
-appear.in channel. Scheduling is managed via a google spreadsheet. See the
-#labmeeting slack channel's header for a link. Lab meeting consists of two
-components described below.
+**Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via
+the google hangouts link used for scrum. Scheduling is managed via a google
+spreadsheet. See the #labmeeting slack channel's header for a link. Lab
+meeting consists of two components described below.
 
     * Journal Club
     * Braintrust
 
-**Journal Club:** We have a 15 minute journal club to start  each lab meeting. For
-journal club, prepare a presentation of 4-5 papers. All except for one should
-have been published since your last journal club presentation. The presentation
-should be simple and shouldn’t take much time to prepare. During the
+**Journal Club:** We have a 15 minute journal club to start  each lab meeting.
+For journal club, prepare a presentation of 4 papers. All except for one should
+have been published since your last journal club presentation. The content you
+discuss - specifically your summary of the papers - should be the product of
+thoughtful analysis. The presentation itself should be simple. During the
 discussion, please share why you picked the paper, its implication for your
 research, and any potential implications that touch on other research that is
-ongoing in the lab.For each paper, the presentation should consist of:
+ongoing in the lab. For each paper, the presentation should consist of:
 
     1. A title slide
     2. An overview slide (usually a flow-chart of some sort from the paper,
        could also be an initial result that sets context).
     3. The results figure that convinced you to pick this paper.
 
-**Braintrust:** Present something that you wish to talk about to the group. This
-could be a confounding result, an interesting result, an analysis that isn’t
-working, etc. This is your chance to have the group focus on and help you solve
-a challenge that you’re facing.
+**Braintrust:** This is an opportunity to share anything that you wish to talk
+about with the group. This could be a confounding result, an interesting
+result, an analysis that isn’t working, a demo of a cool new technology etc.
+This is your chance to have the group focus on and help you solve a challenge
+that you’re facing or to share something interesting that you've discovered
+with the group. Scheduling is voluntary, but each member of the lab is expected
+to share at least once every three months.
 
 **Applied Imagination:** One hour per month, lab meetings will be dedicated to
-big ideas, brainstorming, extended discussion outside the scope of weekly lab 
-meeting, and other team endeavors. Topics can be big questions like 
-“How do we get rid of dark pools of gene expression data?” or the time can 
-be used to discuss new methods and how they fit in with the lab mission (e.g., 
-adversarial networks). Individual lab members are expected to do some brief 
-preparation before the meeting (e.g., read provided papers/materials, come with 
-a few ideas on the topic). The monthly meeting itself consists of group 
-brainstorming and/or discussion and wraps up with a list of action items 
+big ideas, brainstorming, extended discussion outside the scope of weekly lab
+meeting, and other team endeavors. Topics can be big questions like
+“How do we get rid of dark pools of gene expression data?” or the time can
+be used to discuss new methods and how they fit in with the lab mission (e.g.,
+adversarial networks). Individual lab members are expected to do some brief
+preparation before the meeting (e.g., read provided papers/materials, come with
+a few ideas on the topic). The monthly meeting itself consists of group
+brainstorming and/or discussion and wraps up with a list of action items
 for follow up.
 
 **Individual Meetings:** We schedule weekly individual meetings. Once you join the
-lab, contact Casey to set up a time. These are set up for a term to accomodate
+lab, contact Casey to set up a time. These are set up for a term to accommodate
 class schedules. We don’t reschedule these meetings by default if one of the
 parties (Casey or you) are out of town, so if you do want to meet in a week but
 travel conflicts, contact Casey to reschedule. The goal of the weekly meeting
