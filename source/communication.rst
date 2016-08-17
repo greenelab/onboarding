@@ -69,10 +69,11 @@ provides a short summary of:
 **Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via
 the google hangouts link used for scrum. Scheduling is managed via a google
 spreadsheet. See the #labmeeting slack channel's header for a link. Lab
-meeting consists of two components described below.
+meeting consists of three components described below.
 
     * Journal Club
     * Braintrust
+    * Applied Imagination
 
 **Journal Club:** We have a 15 minute journal club to start  each lab meeting.
 For journal club, prepare a presentation of 4 papers. All except for one should
