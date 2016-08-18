@@ -68,8 +68,8 @@ provides a short summary of:
 
 **Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via
 the google hangouts link used for scrum. Scheduling is managed via a google
-spreadsheet. See the #labmeeting slack channel's header for a link. Lab
-meeting consists of three components described below.
+spreadsheet. See the #general slack channel's pinned items link. Lab meeting
+consists of three components described below.
 
     * Journal Club
     * Braintrust
