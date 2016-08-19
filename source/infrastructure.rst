@@ -39,7 +39,7 @@ required, you will need to:
 
 1. Fill out a paper copy of `p-card order form
    <https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/p-card-order-form.pdf>`_.
-2. Get Casey to sign the **Business Purpose** area of the form, then hand it to
+2. Get Casey to sign the **Your Signature** area of the form, then hand it to
    **Camie Minieri** or **Roz Rucker**.
 3. Instead of listing every item on the form, you can write "See attached below"
    and the total sum **only** in the form. If you do so, please also send the
