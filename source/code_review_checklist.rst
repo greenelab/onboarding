@@ -19,7 +19,7 @@ Python code follows :pep:`8`. R code follows `Google's R Style Guide
 follows `Google's JavaScript Style Guide
 <https://google.github.io/styleguide/javascriptguide.xml>`_.
 HTML and CSS follow `Google's HTML/CSS Style Guide
-<https://google.github.io/styleguide/javascriptguide.xml>`_.
+<https://google.github.io/styleguide/htmlcssguide.xml>`_.
 We expect that each person runs a linter (if you're not sure -- `ask 
 <https://greenelab.slack.com/messages/codereview/>`_!) as part of their
 development environment.
