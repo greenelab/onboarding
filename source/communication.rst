@@ -54,7 +54,7 @@ Meetings
 ~~~~~~~~~~~~~
 
 **Scrum:** The scrum is a 10 minute or less meeting that is held every day. It
-is currently scheduled for 9:30 AM. The goal of the scrum is to communicate
+is currently scheduled for 10:00 AM. The goal of the scrum is to communicate
 recent progress and objectives. The scrum is held both in person and via a
 google hangouts link posted to the Slack #general channel. Those who work
 partial schedules (part-time employees, undergraduate students) are only
