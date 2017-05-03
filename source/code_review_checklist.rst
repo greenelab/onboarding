@@ -51,7 +51,7 @@ it to more than Python code. One reason for this is to aid in readability of
 ``diff`` output when performing code reviews.
 
 Repositories may choose to specify a line limit up to 100 characters instead.
-If they choose to do so they must specify it within the README.md of the
+If they choose to do so they must specify it within the README of the
 repository.
 
 **Whitespace:**
