@@ -14,13 +14,13 @@ Code taken from elsewhere is properly acknowledged and compatible with the
 license.
 
 **Style Guide:**
-Python code follows :pep:`8`. R code follows `Google's R Style Guide 
+Python code follows :pep:`8`. R code follows `Google's R Style Guide
 <https://google.github.io/styleguide/Rguide.xml>`_. JavaScript code
 follows `Google's JavaScript Style Guide
 <https://google.github.io/styleguide/javascriptguide.xml>`_.
 HTML and CSS follow `Google's HTML/CSS Style Guide
 <https://google.github.io/styleguide/htmlcssguide.xml>`_.
-We expect that each person runs a linter (if you're not sure -- `ask 
+We expect that each person runs a linter (if you're not sure -- `ask
 <https://greenelab.slack.com/messages/codereview/>`_!) as part of their
 development environment.
 
@@ -43,12 +43,16 @@ At least 2 spaces are placed between in-line comments (#) and source code.
 All trivial imports are at the top of the file.
 
 **Column Length:**
-Lines are 80 characters or fewer. This applies to **all** text under revision 
-control with the exception of data files that must adhere to a particular file 
-format that does not allow for line "folding" where necessary. This rule is 
-already covered well in :pep:`8` but called out here to clarify that we apply 
-it to more than Python code. One reason for this is to aid in readability of 
+Lines are 80 characters or fewer. This applies to **all** text under revision
+control with the exception of data files that must adhere to a particular file
+format that does not allow for line "folding" where necessary. This rule is
+already covered well in :pep:`8` but called out here to clarify that we apply
+it to more than Python code. One reason for this is to aid in readability of
 ``diff`` output when performing code reviews.
+
+Repositories may choose to specify a line limit up to 100 characters instead.
+If they choose to do so they must specify it within the README.md of the
+repository.
 
 **Whitespace:**
 There is no unnecessary whitespace.
