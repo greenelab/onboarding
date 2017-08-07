@@ -8,9 +8,9 @@ expect it to be solid, well written, tested, and documented." While some code
 will be proof-of-concept code, it should be of a form that inspires confidence.
 
 **Language:** We write code for our analyses in Python or R, which allows
-**everyone in the lab to know two languages and understand analytical code. Code
-**for visualization can be Python, R, or javascript. Webserver interface code
-**uses javascript.
+everyone in the lab to know two languages and understand analytical code. Code
+for visualization can be Python, R, or javascript. Webserver interface code
+uses javascript.
 
 **Licensing:** We expect code that we produce to be licensed under a 3-clause
 BSD license. Unless a funding agency requires something different, we'll use
