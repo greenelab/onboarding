@@ -7,10 +7,10 @@ work. You should be, too... People should see your name on a piece of code and
 expect it to be solid, well written, tested, and documented." While some code
 will be proof-of-concept code, it should be of a form that inspires confidence.
 
-**Language:** We write code for our analyses in Python, which allows everyone
-in the lab to know one language and understand analytical code. Code for
-visualization can be Python, R, or javascript. Webserver interface code uses
-javascript.
+**Language:** We write code for our analyses in Python or R, which allows
+**everyone in the lab to know two languages and understand analytical code. Code
+**for visualization can be Python, R, or javascript. Webserver interface code
+**uses javascript.
 
 **Licensing:** We expect code that we produce to be licensed under a 3-clause
 BSD license. Unless a funding agency requires something different, we'll use
@@ -51,11 +51,11 @@ with the process.
    must also approve the pull request.
 
 **Composition of Pull Requests:**
-Each pull request may contain one or more changesets. In keeping with good 
-source control practice, each changeset or commit should contain *all* changes 
-necessary for a particular fix or update. In addition, each pull request should 
-relate to no more than one functional area in the code base you are updating. 
-Keeping the pull request focused to one area makes it easier for your reviewers 
+Each pull request may contain one or more changesets. In keeping with good
+source control practice, each changeset or commit should contain *all* changes
+necessary for a particular fix or update. In addition, each pull request should
+relate to no more than one functional area in the code base you are updating.
+Keeping the pull request focused to one area makes it easier for your reviewers
 to provide thoughtful feedback.
 
 **Reviewing Pull Requests:**
