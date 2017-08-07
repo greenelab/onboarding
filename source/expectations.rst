@@ -21,14 +21,16 @@ other elements of career and project development as needed.
 science that is well presented. We all benefit from this reputation, but we must
 also work to maintain it. In order to maintain the quality of our lab's output,
 we've established deadlines for various outputs. Each of these applies to
-sharing a final version (ready for submission) in the Greene Lab slack's
-#general channel.
+sharing a complete version that the author deems ready for submission in the
+Greene Lab slack's #general channel. Once at least two days have passed and all
+coauthors have approved, the output can move forward even if less time than than
+the maximum allowable has passed.
 
-* Manuscripts must be shared two weeks before submission.
-* Posters must be shared one week before printing.
-* Content presented for the first time in talks must be shared one week before
-  delivery.
-* Meeting abstracts must be shared one week before submission.
+* Manuscripts must be shared two weeks before the deadline.
+* Posters must be shared one week before the deadline for printing.
+* Scientific talks based on a submitted abstract must be shared one week before
+  the presentation.
+* Meeting abstracts must be shared one week before the deadline for submission.
 
 Failure to abide by these guidelines will result in missing whatever the
 opportunity in question is.
