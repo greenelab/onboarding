@@ -18,11 +18,11 @@ go, to advise you on your project-risk portfolio, and to provide guidance on
 other elements of career and project development as needed.
 
 **Deadlines:** Our lab has worked hard to develop a reputation for high-quality
-**science that is well presented. We all benefit from this reputation, but we
-**must also work to maintain it. In order to maintain the quality of our lab's
-**output, we've established deadlines for various outputs. Each of these applies
-**to sharing a final version (ready for submission) in the Greene Lab slack's
-**#general channel.
+science that is well presented. We all benefit from this reputation, but we must
+also work to maintain it. In order to maintain the quality of our lab's output,
+we've established deadlines for various outputs. Each of these applies to
+sharing a final version (ready for submission) in the Greene Lab slack's
+#general channel.
 
 * Manuscripts must be shared two weeks before submission.
 * Posters must be shared one week before printing.
