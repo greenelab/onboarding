@@ -91,4 +91,6 @@ other automation approaches that allow analyses to be automatically performed.
 We expect that these scripts, including those to generate figures in papers
 generated as a consequence of such analyses, will be included in source control
 repositories (see "Getting Code into Greenelab Repositories) and made publicly
-available before or concurrent with manuscript publication.
+available before or concurrent with the submission of preprint (if submitted) or
+manuscripts. Combined with the review guidelines, this means that all code must
+have been reviewed for these documents to be submitted.
