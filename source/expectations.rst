@@ -22,15 +22,30 @@ science that is well presented. We all benefit from this reputation, but we must
 also work to maintain it. In order to maintain the quality of our lab's output,
 we've established deadlines for various outputs. Each of these applies to
 sharing a complete version that the author deems ready for submission in the
-Greene Lab slack's #general channel. Once at least two days have passed and all
-coauthors have approved, the output can move forward even if less time than than
-the maximum allowable has passed.
+Greene Lab slack's #general channel.
 
-* Manuscripts must be shared two weeks before the deadline.
+The specific deadlines for various types of outputs are:
+
+* Manuscripts must be shared two weeks before any deadlines.
 * Posters must be shared one week before the deadline for printing.
 * Scientific talks based on a submitted abstract must be shared one week before
   the presentation.
 * Meeting abstracts must be shared one week before the deadline for submission.
+
+Lab members are given a two-day period to provide feedback on the document. We
+expect that authors will then revise the document to incoporate feedback
+provided within the initial two-day period. Authors are encouraged but not
+required to address feedback received after the initial two days, as it may not
+always be practicable.
+
+This does not eliminate the need for all coauthors to approve a document.
+Coauthors are not required to provide their feedback within the two-day window.
+Coauthors can hold submission of a document until they approve; however,
+according to ICMJE guidelines extreme holds may result in a change from
+authorship to acknowledgement.
+
+In the case that all feedback received within the two-day period has been
+addressed and all coauthors approve, the submission can proceed.
 
 Failure to abide by these guidelines will result in missing whatever the
 opportunity in question is.
