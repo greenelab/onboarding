@@ -9,14 +9,14 @@ e-mail to someone within the lab, try a slack message instead. This helps to
 keep communications in one place, and Casey commits to respond to slacks (not
 necessarily immediately, but the same guarantee is not made for e-mail).
 
-**Bonus.ly:** We recognize that people regularly go above and beyond lab
+**HeyTaco:** We recognize that people regularly go above and beyond lab
 expectations. We wanted a way to recognize each other when this happens. We
-now use bonus.ly. This allows lab members to send a quick virtual thank you
+now use HeyTaco. This allows lab members to send a quick virtual thank you
 note and/or pat on the back. If someone’s paper gets accepted or someone helps
-you out with a programming question, congratulate or thank them. Slack includes
-/give syntax that you should explore (or /give someone a point for helping
-you). When one member accumulates enough bonus.ly points, they take the lab out
-to lunch (Casey pays).
+you out with a programming question, congratulate or thank them. Post a message
+that mentions any user in the #wins Slack channel, and they'll get a HeyTaco
+point. When one member accumulates enough points, they take the lab out to lunch
+(Casey pays).
 
 **Social Media:** Lab members are encouraged to communicate through public
 social media, and if you choose to do so then you are expected to follow our
@@ -24,7 +24,7 @@ code of conduct.
 
 **Projects:** By the nature of our research, lab members will often have the
 opportunity to participate projects managed via private or publicly accessible
-source code repositires. In these cases, lab members are expected to: follow
+source code repositories. In these cases, lab members are expected to: follow
 the code of conduct; expect that private repositories will be world accessible;
 and to communicate via the project-specific medium (e.g. if Rene reported an
 issue on a project on bitbucket, it would not be appropriate for Casey to reply
@@ -43,28 +43,22 @@ town for work or vacation, note this in the calendar.
 
 **Accounts**  Lab members are expected to have accounts for the following and be
 members of the specified (organizations) if applicable:
-  * BitBucket (GreeneLab)
   * GitHub (greenelab)
   * Google Calender (Shared Calendar)
   * Slack (GreeneLab)
-  * Bonus.ly (GreeneLab)
   * Dropbox (permanent members)
 
 Meetings
 ~~~~~~~~~~~~~
 
-**Scrum:** The scrum is a 10 minute or less meeting that is held every day. It
-is currently scheduled for 10:00 AM. The goal of the scrum is to communicate
-recent progress and objectives. The scrum is held both in person and via a
-google hangouts link posted to the Slack #general channel. Those who work
-partial schedules (part-time employees, undergraduate students) are only
-expected to scrum on days that they work. In each scrum, every lab member
-provides a short summary of:
-
-    1. What specific item(s) he/she accomplished yesterday.
-    2. What specific item(s) he/she plans to accomplish today.
-    3. Who, if anyone, is blocking him/her?
-    4. Who, if anyone, is he/she blocking?
+**Scrum:** The scrum is a 10 minute or less meeting that is held on Monday and
+Friday. It is currently scheduled for 10:00 AM on Monday and 1:40 PM on Friday.
+The goal of the scrum is to provide a check in on projects and to keep lab
+members up to date with their peers. In addition to this, we hold a "virtual"
+scrum/goals list each day. Every day, a new issue is posted in
+`the scrum repository <https://github.com/greenelab/scrum/issues/>`_.
+Lab members are expected to note their daily goals and who, if anyone, is
+blocking the lab member and who, if anyone, the lab member is blocking.
 
 **Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via
 the google hangouts link used for scrum. Scheduling is managed via a google
