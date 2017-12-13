@@ -18,17 +18,14 @@ this. If you have questions or concerns about licensing, feel free to raise
 them in Slack.
 
 **Version Control Services:**
-We have Greenelab accounts on both
-`bitbucket <https://bitbucket.org/greenelab>`_ and
-`github <https://github.com/greenelab>`_. We expect that lab members will
-maintain their code in repositories under these team accounts. We do not want
-lab members to commit directly to these though. Instead commits happen as
-described below. We will only publish using code that is held in a Greenelab
-repository that has gone through the review process described below.
+Our primary version control service is GitHub, and we have a `GreeneLab <https://github.com/greenelab>` account there.
+We expect that lab members will maintain their code in repositories under these team accounts.
+However, lab member should not commit to the branch that is shown as default on GitHub for any of these repositories.
+Instead commits happen as described below to facilitate code review.
 
 **Creating a Greenelab Repository:**
 
-1) Create a repository under the team accout.
+1) Create a repository under the team account.
 2) Immediately fork this repository into one that your user account owns.
 3) Make commits to your own repository, and move code back to the Greenelab
    repository as described below.
