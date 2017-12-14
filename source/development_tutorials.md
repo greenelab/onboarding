@@ -1,6 +1,8 @@
 # Development Tutorials
 
-The Tribe and ADAGE web servers make use of the following software tools and frameworks. We have made note of documentation and tutorials found to be helpful. Please submit a pull request if you have additional resources that should be listed here\!
+The Tribe and ADAGE web servers make use of the following software tools and frameworks.
+We have made note of documentation and tutorials found to be helpful.
+Please submit a pull request if you have additional resources that should be listed here\!
 
   - Source control: [Bitbucket](http://bitbucket.org/greenelab/)
       - tutorials: [Bitbucket Cloud Documentation Home](https://confluence.atlassian.com/bitbucket/)
