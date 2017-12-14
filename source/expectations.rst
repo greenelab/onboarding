@@ -33,7 +33,7 @@ The specific deadlines for various types of outputs are:
 * Meeting abstracts must be shared one week before the deadline for submission.
 
 Lab members are given a two-day period to provide feedback on the document. We
-expect that authors will then revise the document to incoporate feedback
+expect that authors will then revise the document to incorporate feedback
 provided within the initial two-day period. Authors are encouraged but not
 required to address feedback received after the initial two days, as it may not
 always be practicable.

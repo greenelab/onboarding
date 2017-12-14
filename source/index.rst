@@ -21,7 +21,7 @@ How to Modify this Document
 ===========================
 
 This is a living document. The repository is at
-`Bitbucket <http://bitbucket.org/greenelab/onboarding/>`_. To make changes,
+`GitHub <https://github.com/greenelab/onboarding>`_. To make changes,
 fork, edit the files you wish, and create a pull request. The pull request
 process is handled as described in the
 :ref:`Getting Code into Greenelab Repositories <pull-request-process>`

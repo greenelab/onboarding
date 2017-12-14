@@ -16,13 +16,11 @@ We have accounts with a number of key services. When a lab member
 joins, accounts should be created in:
 
 * `Slack <https://slack.com>`_
-* `Bonus.ly <https://bonus.ly>`_
 * `Dropbox <https://dropbox.com>`_
 
-In addition, lab members should have accounts with bitbucket and github.
+In addition, lab members should have accounts with github.
 These accounts should get added to our:
 
-* `bitbucket team account <https://bitbucket.org/greenelab/>`_ (Greenelab)
 * `github team account <https://github.com/greenelab/>`_ (Greenelab)
 
 Purchasing
@@ -32,7 +30,7 @@ vendor is an approved university vendor. For approved vendors
 (check the `Penn Marketplace <http://www.purchasing.upenn.edu/shopper/>`_),
 you need to fill out a `pharmacology requisition form
 <https://bitbucket.org/greenelab/onboarding/raw/tip/forms-and-docs/regular-vendor-purchase-form.xlsx>`_,
-and send it to phorders@mail.med.upenn.edu (Casey should be CCed on the email).
+and send it to psom-phorders@pennmedicine.upenn.edu (Casey should be CCed on the email).
 
 For other suppliers (such as Amazon.com) where a credit card purchase is
 required, you will need to:
