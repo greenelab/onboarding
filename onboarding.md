@@ -24,7 +24,7 @@ To facilitate your success, Casey will help you to plan your training, to devise
 **Deadlines:** Our lab has worked hard to develop a reputation for high-quality science that is well presented.
 We all benefit from this reputation, but we must also work to maintain it.
 In order to maintain the quality of our lab's output, we've established deadlines for various outputs.
-Each of these applies to sharing a complete version that the author deems ready for submission in the Greene Lab slack's \#general channel.
+Each of these applies to sharing a complete version that the author deems ready for submission in the Greene Lab slack's `#general` channel.
 
 The specific deadlines for various types of outputs are:
 
@@ -87,7 +87,7 @@ We wanted a way to recognize each other when this happens.
 We now use HeyTaco.
 This allows lab members to send a quick virtual thank you note and/or pat on the back.
 If someone’s paper gets accepted or someone helps you out with a programming question, congratulate or thank them.
-Post a message that mentions any user in the \#wins Slack channel, and they'll get a HeyTaco point.
+Post a message that mentions any user in the `#wins` Slack channel, and they'll get a HeyTaco point.
 When one member accumulates enough points, they take the lab out to lunch (Casey pays).
 
 **Social Media:** Lab members are encouraged to communicate through public social media, and if you choose to do so then you are expected to follow our code of conduct.
@@ -104,7 +104,12 @@ If you have concerns at any point, set up a meeting with Casey to discuss these 
 This has the time and location of group meeting, and is considered the most up to date information about individual availability.
 If you will be out of town for work or vacation, note this in the calendar.
 
-**Accounts** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable: \* GitHub (greenelab) \* Google Calender (Shared Calendar) \* Slack (GreeneLab) \* Dropbox (permanent members)
+**Accounts** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
+
++ GitHub (greenelab)
++ Google Calender (Shared Calendar)
++ Slack (GreeneLab)
++ Dropbox (permanent members)
 
 ## Meetings
 
@@ -117,12 +122,12 @@ Lab members are expected to note their daily goals and who, if anyone, is blocki
 
 **Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via the google hangouts link used for scrum.
 Scheduling is managed via a google spreadsheet.
-See the \#general slack channel's pinned items link.
+See the `#general` slack channel's pinned items link.
 Lab meeting consists of three components described below.
 
->   - Journal Club
->   - Braintrust
->   - Applied Imagination
+- Journal Club
+- Braintrust
+- Applied Imagination
 
 **Journal Club:** We have a 15 minute journal club to start each lab meeting.
 For journal club, prepare a presentation of 4 papers.
@@ -132,9 +137,9 @@ The presentation itself should be simple.
 During the discussion, please share why you picked the paper, its implication for your research, and any potential implications that touch on other research that is ongoing in the lab.
 For each paper, the presentation should consist of:
 
-> 1.  A title slide
-> 2.  An overview slide (usually a flow-chart of some sort from the paper, could also be an initial result that sets context).
-> 3.  The results figure that convinced you to pick this paper.
+1.  A title slide
+2.  An overview slide (usually a flow-chart of some sort from the paper, could also be an initial result that sets context).
+3.  The results figure that convinced you to pick this paper.
 
 **Braintrust:** This is an opportunity to share anything that you wish to talk about with the group.
 This could be a confounding result, an interesting result, an analysis that isn’t working, a demo of a cool new technology etc.
@@ -170,7 +175,7 @@ Webserver interface code uses javascript.
 Unless a funding agency requires something different, we'll use this.
 If you have questions or concerns about licensing, feel free to raise them in Slack.
 
-**Version Control Services:** Our primary version control service is GitHub, and we have a GreeneLab \<https://github.com/greenelab\> account there.
+**Version Control Services:** Our primary version control service is GitHub, and we have a [`greenelab` account](https://github.com/greenelab) there.
 We expect that lab members will maintain their code in repositories under these team accounts.
 However, lab member should not commit to the branch that is shown as default on GitHub for any of these repositories.
 Instead commits happen as described below to facilitate code review.
@@ -179,22 +184,18 @@ Instead commits happen as described below to facilitate code review.
 
 1)  Create a repository under the team account.
 2)  Immediately fork this repository into one that your user account owns.
-3)  Make commits to your own repository, and move code back to the Greenelab repository as described below.
+3)  Make commits to your own repository, and move code back to the `greenelab` repository as described below.
 
-<div id="pull-request-process">
-
-**Getting Code into Greenelab Repositories:** Code moves from user repositories to Greenelab repositories through a process of code review.
+**Getting Code into Greenelab Repositories:** Code moves from user repositories to `greenelab` repositories through a process of code review.
 Code review is handled through pull requests.
 The process is described briefly below.
 Feel free to ask for guidance if you are uncomfortable with the process.
 **We will revoke write access for failing to adhere to these rules.**
 
-</div>
-
-1)  Make changes to your code and commit them in your own repository first.
-2)  Create a pull request into the repository owned by Greenelab.
-3)  Name potential reviewers for your pull request.
-4)  Once at least one lab member has approved your pull request, you or a reviewer may merge your pull request.
+1.  Make changes to your code and commit them in your own repository first.
+2.  Create a pull request into the repository owned by Greenelab.
+3.  Name potential reviewers for your pull request.
+4.  Once at least one lab member has approved your pull request, you or a reviewer may merge your pull request.
 The only exception to this policy is this repository ("onboarding") where, in addition to the above rules, Casey must also approve the pull request.
 
 **Composition of Pull Requests:** Each pull request may contain one or more changesets.
@@ -205,7 +206,7 @@ Keeping the pull request focused to one area makes it easier for your reviewers 
 **Reviewing Pull Requests:** We expect that all lab members will participate in review of pull requests.
 If you get named by the submitter, it's courteous to review the request.
 We have created a checklist to facilitate review.
-As a reviewer, you are responsible for making sure that all <span data-role="ref">checklist \<code-review-checklist\></span> guidelines are followed.
+As a reviewer, you are responsible for making sure that all checklist guidelines are followed.
 
 **Projects that didn't work:** We expect that repositories will contain failures (e.g. proof-of-concepts that didn't work).
 This is ideal.
@@ -229,7 +230,7 @@ Combined with the review guidelines, this means that all code must have been rev
 This is a living document.
 The repository is at [GitHub](https://github.com/greenelab/onboarding).
 To make changes, fork, edit the files you wish, and create a pull request.
-The pull request process is handled as described in the <span data-role="ref">Getting Code into Greenelab Repositories \<pull-request-process\></span> section of "<span data-role="doc">coding\_and\_software</span>."
+The pull request process is handled as described in the Getting Code into Greenelab Repositories section of coding_and_software.
 
 ## Additional Resources
 
