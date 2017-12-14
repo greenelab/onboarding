@@ -234,8 +234,8 @@ The pull request process is handled as described in the Getting Code into Greene
 
 ## Additional Resources
 
-+ [development tutorials](source/development_tutorials.md)
-+ [code review checklist](source/code_review_checklist.md)
-+ [deployment checklist](source/deployment_checklist.md)
-+ [infrastructure](source/infrastructure.md)
-+ [newcomers info](source/newcomers_info.md)
++ [development tutorials](extras/development_tutorials.md)
++ [code review checklist](extras/code_review_checklist.md)
++ [deployment checklist](extras/deployment_checklist.md)
++ [infrastructure](extras/infrastructure.md)
++ [newcomers info](extras/newcomers_info.md)
