@@ -28,10 +28,10 @@ Each of these applies to sharing a complete version that the author deems ready 
 
 The specific deadlines for various types of outputs are:
 
-  - Manuscripts must be shared two weeks before any deadlines.
-  - Posters must be shared one week before the deadline for printing.
-  - Scientific talks based on a submitted abstract must be shared one week before the presentation.
-  - Meeting abstracts must be shared one week before the deadline for submission.
+- Manuscripts must be shared two weeks before any deadlines.
+- Posters must be shared one week before the deadline for printing.
+- Scientific talks based on a submitted abstract must be shared one week before the presentation.
+- Meeting abstracts must be shared one week before the deadline for submission.
 
 Lab members are given a two-day period to provide feedback on the document.
 We expect that authors will then revise the document to incorporate feedback provided within the initial two-day period.
@@ -93,14 +93,14 @@ When one member accumulates enough points, they take the lab out to lunch (Casey
 **Social Media:** Lab members are encouraged to communicate through public social media, and if you choose to do so then you are expected to follow our code of conduct.
 
 **Projects:** By the nature of our research, lab members will often have the opportunity to participate projects managed via private or publicly accessible source code repositories.
-In these cases, lab members are expected to: follow the code of conduct; expect that private repositories will be world accessible; and to communicate via the project-specific medium (e.g. if Rene reported an issue on a project on bitbucket, it would not be appropriate for Casey to reply "I'll drop by your desk and show you how to solve that.").
+In these cases, lab members are expected to: follow the code of conduct; expect that private repositories will be world accessible; and to communicate via the project-specific medium (e.g. if Rene reported an issue on a project on GitHub, it would not be appropriate for Casey to reply "I'll drop by your desk and show you how to solve that.").
 
 **IP/Openness:** This is handled in accordance with the instructions from our research sponsors and university guidance.
 Lab members must follow the Penn Participation Agreement and the agreements with our sponsors.
 These often allow, encourage, or require openness.
 If you have concerns at any point, set up a meeting with Casey to discuss these concerns.
 
-**Shared Calendar:** There is a shared google calendar for members of the Greene lab.
+**Shared Calendar:** There is a shared Coogle Calendar for members of the Greene Lab.
 This has the time and location of group meeting, and is considered the most up to date information about individual availability.
 If you will be out of town for work or vacation, note this in the calendar.
 
@@ -117,7 +117,7 @@ If you will be out of town for work or vacation, note this in the calendar.
 It is currently scheduled for 10:00 AM on Monday and 1:40 PM on Friday.
 The goal of the scrum is to provide a check in on projects and to keep lab members up to date with their peers.
 In addition to this, we hold a "virtual" scrum/goals list each day.
-Every day, a new issue is posted in [the scrum repository](https://github.com/greenelab/scrum/issues/).
+Every day, a new issue is posted in the [scrum repository](https://github.com/greenelab/scrum/issues/).
 Lab members are expected to note their daily goals and who, if anyone, is blocking the lab member and who, if anyone, the lab member is blocking.
 
 **Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via the google hangouts link used for scrum.
@@ -163,9 +163,13 @@ The goal of the weekly meeting is to:
 # Source Code, Data, and Reproducibility
 
 **Pride:** We expect lab members to sign their code.
-To quote from *The Pragmatic Programmer*, "Craftsmen of an earlier age were proud to sign their work.
-You should be, too...
-People should see your name on a piece of code and expect it to be solid, well written, tested, and documented." While some code will be proof-of-concept code, it should be of a form that inspires confidence.
+To quote from _The Pragmatic Programmer_:
+
+> Craftsmen of an earlier age were proud to sign their work.
+You should be, too…
+People should see your name on a piece of code and expect it to be solid, well written, tested, and documented.
+
+While some code will be proof-of-concept code, it should be of a form that inspires confidence.
 
 **Language:** We write code for our analyses in Python or R, which allows everyone in the lab to know two languages and understand analytical code.
 Code for visualization can be Python, R, or javascript.
@@ -182,9 +186,9 @@ Instead commits happen as described below to facilitate code review.
 
 **Creating a Greenelab Repository:**
 
-1)  Create a repository under the team account.
-2)  Immediately fork this repository into one that your user account owns.
-3)  Make commits to your own repository, and move code back to the `greenelab` repository as described below.
+1.  Create a repository under the team account.
+2.  Immediately fork this repository into one that your user account owns.
+3.  Make commits to your own repository, and move code back to the `greenelab` repository as described below.
 
 **Getting Code into Greenelab Repositories:** Code moves from user repositories to `greenelab` repositories through a process of code review.
 Code review is handled through pull requests.

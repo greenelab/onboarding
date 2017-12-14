@@ -1,7 +1,21 @@
-The source directory contains the Greene Lab's onboarding document.
-To make changes to this document, clone and submit a pull request.
+# Greene Lab Onboarding Repository
 
-This repository is released under CC0.
-See LICENSE file for more details.
+The repository is home to the onboarding information for the [Greene Lab](http://www.greenelab.com/) at the University of Pennsylvania.
+**See [`onboarding.md`](onboarding.md)** for the onboarding information.
 
-The latest build can be found at <http://greenelab-onboarding.readthedocs.io/en/latest/>
+## Contributing
+
+To propose a change, submit a pull request.
+Consider the following goals of the onboarding document:
+
++ Simple: Use straightforward language and avoid jargon.
++ Concise: The document should be readable in a single sitting.
++ Specific: It should be targeted to the lab in question.
++ Enforceable: Failure to meet expectations should have consequences.
++ Living: The document is expected to change.
++ Local Resources: (should this be part of a separate document?)
+
+## License
+
+This repository is dedicated to the public domain.
+See the [`LICENSE`](LICENSE) file for more details.
