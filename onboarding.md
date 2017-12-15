@@ -100,7 +100,7 @@ Lab members must follow the Penn Participation Agreement and the agreements with
 These often allow, encourage, or require openness.
 If you have concerns at any point, set up a meeting with Casey to discuss these concerns.
 
-**Shared Calendar:** There is a shared Coogle Calendar for members of the Greene Lab.
+**Shared Calendar:** There is a shared Google Calendar for members of the Greene Lab.
 This has the time and location of group meeting, and is considered the most up to date information about individual availability.
 If you will be out of town for work or vacation, note this in the calendar.
 
