@@ -113,12 +113,21 @@ If you will be out of town for work or vacation, note this in the calendar.
 
 ## Meetings
 
-**Scrum:** The scrum is a 10 minute or less meeting that is held on Monday and Friday.
-It is currently scheduled for 10:00 AM on Monday and 1:40 PM on Friday.
-The goal of the scrum is to provide a check in on projects and to keep lab members up to date with their peers.
-In addition to this, we hold a "virtual" scrum/goals list each day.
-Every day, a new issue is posted in the [scrum repository](https://github.com/greenelab/scrum/issues/).
-Lab members are expected to note their daily goals and who, if anyone, is blocking the lab member and who, if anyone, the lab member is blocking.
+**Scrum:** Our team's scrum process involves three components:
+
+    1. An opening scrum meeting at 10:00 AM Monday morning where individuals will lay out their goals for the week, in the form of post-it notes, on the whiteboard in the Greene Lab.
+    2. A closing scrum meeting at 1:40 PM Friday afternoon where team members will reflect on the progress they made on the goals they stated the previous Monday.
+    3. A daily virtual scrum update.
+
+The daily virtual scrum update should include an update to [scrum repository](https://github.com/greenelab/scrum).
+An issue is automatically created for each day the office is open.
+These issues can be found [here](https://github.com/greenelab/scrum/issues).
+The update should include the following:
+
+    1. What specific item(s) he/she accomplished yesterday.
+    2. What specific item(s) he/she plans to accomplish today.
+    3. Who, if anyone, is blocking him/her?
+    4. Who, if anyone, is he/she blocking?
 
 **Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via the google hangouts link used for scrum.
 Scheduling is managed via a google spreadsheet.
@@ -151,10 +160,15 @@ Topics can be big questions like “How do we get rid of dark pools of gene expr
 Individual lab members are expected to do some brief preparation before the meeting (e.g., read provided papers/materials, come with a few ideas on the topic).
 The monthly meeting itself consists of group brainstorming and/or discussion and wraps up with a list of action items for follow up.
 
+**Tech Team Meeting:** Members of the tech team are expected to attend a tech team meeting each week rather than the **Lab Meeting**, although they are welcome to attend both.
+The Tech Team Meeting will include an update from Deepa regarding information gleaned from users or perspective users.
+Kurt will give a review of project statuses and progress.
+The final half hour will be a presentation from varying members relating to cool new tech, designs of new projects, or anything else that is relevant to the tech team.
+
 **Individual Meetings:** We schedule weekly individual meetings.
-Once you join the lab, contact Casey to set up a time.
+Once you join the lab, contact Casey (or Kurt if you're on the tech team) to set up a time.
 These are set up for a term to accommodate class schedules.
-We don’t reschedule these meetings by default if one of the parties (Casey or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Casey to reschedule.
+We don’t reschedule these meetings by default if one of the parties (Casey, Kurt or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Casey or Kurt to reschedule.
 The goal of the weekly meeting is to:
 
 1.  Discuss challenges.
