@@ -100,11 +100,16 @@ Lab members must follow the Penn Participation Agreement and the agreements with
 These often allow, encourage, or require openness.
 If you have concerns at any point, set up a meeting with Casey to discuss these concerns.
 
-**Shared Calendar:** There is a shared Google Calendar for members of the Greene Lab.
-This has the time and location of group meeting, and is considered the most up to date information about individual availability.
-If you will be out of town for work or vacation, note this in the calendar.
+**Calendars:** There are two Google Calendars for the lab:
+Greene Lab Core Events ([webview](https://calendar.google.com/calendar/embed?src=h1eia9g7qu1udm079vsav7qlq0%40group.calendar.google.com&ctz=America%2FNew_York), Calendar ID `h1eia9g7qu1udm079vsav7qlq0`)
+and Greene Lab Attendance ([webview](https://calendar.google.com/calendar/embed?src=dk2vdln8ci4mh1m723df6rcb3s%40group.calendar.google.com&ctz=America%2FNew_York), Calendar ID `dk2vdln8ci4mh1m723df6rcb3s`).
+The Attendance calendar is for noting individual availability (i.e. whether you'll be out of office).
+It should be used, for example, to note vacations, conference travel, and other workday conflicts.
+All other events should go in the Core Events calendar.
+In general, this calendar is for events that could possibly involve 3 or more lab members.
+Mandatory events such as lab meetings, scrums, and group deadlines go on Core Events.
 
-**Accounts** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
+**Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
 
 + GitHub (greenelab)
 + Google Calender (Shared Calendar)
