@@ -14,7 +14,7 @@ We have accounts with a number of key services.
 When a lab member joins, accounts should be created in:
 
 - [Slack](https://slack.com)
-- [Dropbox](https://dropbox.com)
+- [Box](https://box.com)
 
 In addition, lab members should have accounts with github.
 These accounts should get added to our:
