@@ -42,6 +42,7 @@ Under **Profile Settings** > **Personal Information**, fill in required informat
 Set the default Travel Approver to **Jason Molli**.
 - Ask **Carmela (Camie) Minieri** to make you eligible for expense reports on Concur, which takes at least a day for processing.
 You should then be able to submit expenses for reimbursement.
+- Refer to the [tutorial](reimbursement_tutorial.md) to understand the whole reimbursement process.
 
 There is mobile Concur app, which is useful for taking pictures of receipts.
 To setup the app, login to concur expense online and go to **Profile Settings** > **Mobile Registration**.
