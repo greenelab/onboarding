@@ -14,7 +14,7 @@ Filling out this form is pretty straight forward.
 For the scope of work section fill out topic keywords that describe of your thesis project (PhD Candidates) or current research (Pre-Candidacy Students).
 In the Term section fill out your **projected graduation year plus one** (Just to be safe given the joys of gradudate school).
 Lastly, sign your name by the Student/Trainee section and give your last 4 digits of your social security number.
-Now you are done with this section and can move on towards [Opening A New Report](#filling-out-reimbursement-report).
+Now you are done with this section and can move on to [filling out the reimbursement report](#filling-out-reimbursement-report).
 
 ### PostDocs and Staff 
 
