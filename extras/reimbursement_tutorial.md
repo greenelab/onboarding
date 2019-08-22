@@ -1,17 +1,17 @@
 # Filling Out A Reimbursement 101
 
-This is a tutorial on how to fill out a reimbursement. May it be for travel or for hosting a candidate interview dinner.
-For this tutorial we will assume that we are reimbursing a postdoc candidate interview dinner.
+This is a tutorial on how to fill out a reimbursement for travel or for hosting a candidate interview dinner.
+In this tutorial we will act as if we are reimbursing a candidate interview dinner.
 
 ## Fill Out Agreement Form
 
 ### Graduate Student
 
-First step is to fill out an [agreement form](https://www.finance.upenn.edu/sites/default/files/Penn-Student-Agreement.pdf). 
-This form is essential for getting any reimbursements accept.
+The first step is to fill out an [agreement form](https://www.finance.upenn.edu/sites/default/files/Penn-Student-Agreement.pdf). 
+This form is essential for getting any reimbursements accepted.
 **Any submitted report that misses this form will bounce back**.
 Filling out this form is pretty straight forward.
-For the scope of work section fill out topic keywords that describe of your thesis project (PhD Candidates) or current research (Pre-Candidacy Students).
+For the scope of work section, fill out topic keywords that describe of your thesis project (PhD Candidates) or current research (Pre-Candidacy Students).
 In the Term section fill out your **projected graduation year plus one** (Just to be safe given the joys of gradudate school).
 Lastly, sign your name by the Student/Trainee section and give your last 4 digits of your social security number.
 Now you are done with this section and can move on to [filling out the reimbursement report](#filling-out-reimbursement-report).
@@ -34,26 +34,27 @@ Your screen should look like below.
 
 ![report header](tutorial_screenshots/blank_report_header.png)
 
-Now the fields highlighted in red are what you need to fill out. 
+Fill out the fields highlighted in red. 
 **Type of Travel/Reimbursement**, **Report Name** and **Report Date** are straight forward to fill out.
 The policy field should be automatically filled, so don't worry about that.
 Now an important field to fill out is the **Business Justification**.
 In this field you need to provide justification for why you should be reimbursed.
-Rule of thumb: more detail you prove the better.
-For example, if this is a travel reimbursement for a conference, you *should* provide the following information:
+Rule of thumb: more detail you provide the better.
+For example, if this is a travel reimbursement for a conference, you *must* provide the following information:
 
 1. Name of Conference
-2. Conference Location
-3. Why you attended the conference - i.e. Present work via poster or talk 
-4. If PhD Candidate make sure to reference that presented work pertains to a specific aim of your thesis.
-5. For other students talk about how this is your current research project.
-6. For staff just provide as much detail as you can.
+2. Conference Date
+3. Conference Location
+4. Why you attended the conference - i.e. Present work via poster or talk 
+5. If PhD Candidate make sure to reference that presented work pertains to a specific aim of your thesis.
+6. For other students talk about how this is your current research project.
+7. For staff just provide as much detail as you can.
 
 After you fill out the Business Justification section, select the appropriate value for the School/Center section.
 For this lab select **(40) MED**.
 Here comes the tricky part: selecting the correct grant number.
 Please take a look at [greenelab funds](https://github.com/greenelab/funds) to find the appropriate grant number.
-If not sure what number is appropriate, ask a memeber of the lab.
+If not sure what number is appropriate, ask Casey.
 After you have identified the appropriate grant number, highlight and copy the **first 14 digits** (should be in the form of: XXX-XXXX-X-XXXXXX).
 For example, let use this new "start up fund grant number": 500-9999-9-999999-xxxx-4000-9127. 
 Paste the digits into the CNAC-ORG-BC-FUND section.
@@ -122,9 +123,10 @@ Look at this screenshot:
 
 ![attach receipt](tutorial_screenshots/attach_receipts.png)
 
-After clicking the option, navigate to the scanned  agreement form and attached it.
+After clicking the option, navigate to the scanned  agreement form and attach it.
 **Do not add it as an expense**.
 If you do, the report has a high likelihood of being bounced back.
 Once you have attached the form, hit the submit button (top right) and play the waiting game.
 Usually it can take a few days to a few weeks.
-All depends on how quickly the report gets approved.
+The time depends on how quickly the report gets approved.
+It is possible that you or Casey can speed the process up: please let him know if a reimbursement gets delayed.
