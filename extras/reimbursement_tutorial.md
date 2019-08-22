@@ -29,31 +29,33 @@ Your screen should look like the screenshot below minus the submitted report.
 
 ![opening screen](tutorial_screenshots/new_report_screen.png)
 
-Click on the create new report and get started on filling the reimbursement out.
-Your scree should look like the screen shot below.
+Click on the create new report to get started on filling the reimbursement form out.
+Your screen should look like below.
 
 ![report header](tutorial_screenshots/blank_report_header.png)
 
 Now the fields highlighted in red are what you need to fill out. 
-Type of Reimbursement,Report Name and Report Date are straight forward to fill out.
-The policy field should be automatically filled out so don't worry about that.
-Now the important field to fill out is the Business Justification.
+**Type of Travel/Reimbursement**, **Report Name** and **Report Date** are straight forward to fill out.
+The policy field should be automatically filled, so don't worry about that.
+Now an important field to fill out is the **Business Justification**.
 In this field you need to provide justification for why you should be reimbursed.
-Rule of thumb is more detail the better.
-For example if this is a travel reimbursement for a conference, you would provide the following information:
+Rule of thumb: more detail you prove the better.
+For example, if this is a travel reimbursement for a conference, you *should* provide the following information:
 
-1. Name of The Conference
+1. Name of Conference
 2. Conference Location
 3. Why you attended the conference - i.e. Present work via poster or talk 
-4. If PhD Candidate make sure to reference that the work you are presenting pertains to a specific aim of your thesis.
-5. Other students/staff provide as much detail as you can
+4. If PhD Candidate make sure to reference that presented work pertains to a specific aim of your thesis.
+5. For other students talk about how this is your current research project.
+6. For staff just provide as much detail as you can.
 
-After you fill out the Business Justification, next is to select the appropriate School/Center.
+After you fill out the Business Justification section, select the appropriate value for the School/Center section.
 For this lab select **(40) MED**.
-Now here comes the trick part of selecting the correct grant number.
+Here comes the tricky part: selecting the correct grant number.
 Please take a look at [greenelab funds](https://github.com/greenelab/funds) to find the appropriate grant number.
+If not sure what number is appropriate, ask a memeber of the lab.
 After you have identified the appropriate grant number, highlight and copy the **first 14 digits** (should be in the form of: XXX-XXXX-X-XXXXXX).
-As an example let use my new "start up fund grant number": 500-9999-9-999999-xxxx-4000-9127. 
+For example, let use this new "start up fund grant number": 500-9999-9-999999-xxxx-4000-9127. 
 Paste the digits into the CNAC-ORG-BC-FUND section.
 See screenshot:
 
@@ -103,8 +105,8 @@ Your screen will now look like this:
 
 The fields here are straight forward to fill out.
 Add dinner attendee's names to this type of expense.
-Button can be found bottom right (titled new attendee).
-Just a note: **Grants do not reimburse alcohol**.
+Button can be found bottom right (New Attendee).
+Note: **Grants do not reimburse alcohol**.
 If you have alcohol on the receipt, please indicate that on this page.
 After you complete this form, make sure you attached the receipt image using the attach receipt button on the bottom right.
 Make sure you have an **itemized** receipt and a receipt that shows proof of purchase.
@@ -113,14 +115,14 @@ Once that is all done, hit the save button and you will return to this screen:
 
 ![main report](tutorial_screenshots/main_report_page.png)
 
-Congratulations you just fill out your expense report for the dinner.
+Congratulations!! You just fill out your expense report for dinner.
 Repeat the above process if you have more expenses that need to be reimbursed.
 Now last step is to attach that [agreement form](## Fill Out Agreement Form) to this report.
 Look at this screenshot:
 
 ![attach receipt](tutorial_screenshots/attach_receipts.png)
 
-After clicking the option, attached the signed agreement form.
+After clicking the option, navigate to the scanned  agreement form and attached it.
 **Do not add it as an expense**.
 If you do, the report has a high likelihood of being bounced back.
 Once you have attached the form, hit the submit button (top right) and play the waiting game.
