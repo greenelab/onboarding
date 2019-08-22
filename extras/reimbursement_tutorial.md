@@ -14,7 +14,7 @@ Filling out this form is pretty straight forward.
 For the scope of work section fill out topic keywords that describe of your thesis project (PhD Candidates) or current research (Pre-Candidacy Students).
 In the Term section fill out your **projected graduation year plus one** (Just to be safe given the joys of gradudate school).
 Lastly, sign your name by the Student/Trainee section and give your last 4 digits of your social security number.
-Now you are done with this section and can move on towards [Opening A New Report](## Creating Reimbursement Report).
+Now you are done with this section and can move on towards [Opening A New Report](#filling-out-reimbursement-report).
 
 ### PostDocs and Staff 
 
@@ -24,7 +24,7 @@ The form and link will be filled out here
 
 ### Report Header
 This section will show you how to fill out a reimbursement report.
-Open [concur](http://cms.business-services.upenn.edu/penntravel/expense-report.html) and click on the expense tab.
+Open [concur](https://medley.isc-seo.upenn.edu/authentication/profile/concur?app=concurprod) and click on the expense tab.
 Your screen should look like the screenshot below minus the submitted report.
 
 ![opening screen](tutorial_screenshots/new_report_screen.png)
@@ -77,7 +77,7 @@ Refer to screenshot:
 ![cref number](tutorial_screenshots/blank_report_cref.png)
 
 If the number is correct auto correct will kick in.
-Click next to move onto filling out itemized expenses.
+Click next to move onto filling out [itemized expenses](#itemized-reimbursements).
 
 ### Itemized Reimbursements
 
@@ -117,7 +117,7 @@ Once that is all done, hit the save button and you will return to this screen:
 
 Congratulations!! You just fill out your expense report for dinner.
 Repeat the above process if you have more expenses that need to be reimbursed.
-Now last step is to attach that [agreement form](## Fill Out Agreement Form) to this report.
+Now last step is to attach that [agreement form](#fill-out-agreement-form) to this report.
 Look at this screenshot:
 
 ![attach receipt](tutorial_screenshots/attach_receipts.png)
