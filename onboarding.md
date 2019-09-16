@@ -47,7 +47,7 @@ Please help by translating or improving: <http://github.com/leftlogic/confcodeof
 
 We expect members to follow these guidelines at any lab-related event.
 
-**Authorship:** Our lab follows the [Perelman School of Medicine Authorship Policy](https://www.med.upenn.edu/policy/user_documents/2_Announcement_MemoLJLRE_PerelmanSchoolofMedicineAuthorshipPolicy.pdf)
+**Authorship:** Our lab follows the [Perelman School of Medicine Authorship Policy](https://www.med.upenn.edu/policy/user_documents/2_Announcement_MemoLJLRE_PerelmanSchoolofMedicineAuthorshipPolicy.pdf).
 These guidelines are derived from ICMJE's Uniform Requirements for Manuscripts Submitted to Biomedical Journals.
 
 **Ethics:** We expect lab members to be honest in scientific communications both within and outside the lab.
