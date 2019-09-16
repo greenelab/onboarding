@@ -27,7 +27,9 @@ Abstracts for meetings must be shared with all co-authors, including Casey, at l
 Failure to abide by this guideline will result in missing whatever the opportunity in question is.
 
 Trainees in the lab will often receive opportunities to present their work at scientific conferences.
-These presentations reflect on the entire lab and must be presented to the research lab during a `braintrust` meeting prior to the conference, and lab members are expected to address feedback that is provided.
+These presentations reflect on the entire lab.
+Oral presentations must be presented to the research lab during a `braintrust` meeting prior to the conference, and lab members are expected to address feedback that is provided.
+Poster presentations should be shared in the `#general` slack channel at least a week before printing.
 
 **Code of Conduct:** All members of the lab, along with visitors, are expected to agree with this code of conduct.
 We will enforce this code.
