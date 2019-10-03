@@ -74,6 +74,12 @@ Plagiarism is not tolerated
 While a full enumeration of ethical considerations is outside of the scope of this document, Penn provides a [handbook](https://provost.upenn.edu/uploads/media_items/ethics-handbook.original.pdf) that we recommend
 In addition, please don't hesitate to raise any questions or concerns that you have at any point with Casey.
 
+**PhD Student Committees:** PhD students will interact with their qualifier and thesis committees.
+Students should correspond with the coordinator for their graduate program to understand the expectations that exist around communication with committee members.
+Questions around what document(s) their committee will expect to see and when they should be sent to the committee should be resolved with the coordinator at least a month in advance of a scheduled meeting.
+Students in the Greene lab are not to provide food or drinks for committee members.
+If the students are in a graduate program where a culture of providing food and drinks to committee members has developed, the students can include the information that no food or drink will be provided on an email in advance of the meeting and cite this policy.
+
 # Communication
 
 ## General
