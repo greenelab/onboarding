@@ -218,7 +218,8 @@ As a reviewer, you are responsible for making sure that all checklist guidelines
 This is ideal.
 Being able to find them will make sure we don't make the same failure twice.
 
-**Non-Code Versioning:** Non-code documents should be kept in a place that maintains version history. Penn provides Box for these purposes.
+**Non-Code Versioning:** Non-code documents should be kept in a place that maintains version history.
+Penn provides [Box](https://upenn.box.com/) for these purposes.
 
 **Data Management:** For publicly available data, scripts used to download and process these data should be preserved, as should the versions of items used in processing (e.g. probe to gene mappings).
 These items should be version controlled.
