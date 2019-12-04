@@ -66,6 +66,14 @@ Questions around what document(s) their committee will expect to see and when th
 Students in the Greene lab are not to provide food or drinks for committee members.
 If the students are in a graduate program where a culture of providing food and drinks to committee members has developed, the students can include the information that no food or drink will be provided on an email in advance of the meeting and cite this policy.
 
+**Conference Travel:** We try to make sure that each member of the lab can travel to once conference per year of their choice outside of the Philadelphia region.
+The conference should be within the continental United States or cost competitive with similar conferences in the continental US.
+Lab members who travel to such a conference should submit an abstract for an oral presentation and poster and should present in whatever form is accepted at the meeting.
+The conference should be topical for the lab member's research projects and the purpose must align with the grant(s) that support the lab member.
+Lab members should first clear such travel with Casey.
+Lab members who are invited to conferences or other presentation opportunities with their costs covered by the organization inviting them, e.g., as an invited speaker or keynote, are welcome to accept such invitations.
+In all cases conference travel should be noted on the lab attendance calendar.
+
 # Communication
 
 ## General
@@ -151,16 +159,6 @@ This could be a confounding result, an interesting result, an analysis that isn�
 This is your chance to have the group focus on and help you solve a challenge that you’re facing or to share something interesting that you've discovered with the group.
 Scheduling is voluntary, but each member of the lab is expected to share at least once every three months.
 
-**Applied Imagination:** One hour per month, lab meetings will be dedicated to big ideas, brainstorming, extended discussion outside the scope of weekly lab meeting, and other team endeavors.
-Topics can be big questions like “How do we get rid of dark pools of gene expression data?” or the time can be used to discuss new methods and how they fit in with the lab mission (e.g., adversarial networks).
-Individual lab members are expected to do some brief preparation before the meeting (e.g., read provided papers/materials, come with a few ideas on the topic).
-The monthly meeting itself consists of group brainstorming and/or discussion and wraps up with a list of action items for follow up.
-
-**Tech Team Meeting:** Members of the tech team are expected to attend a tech team meeting each week rather than the **Lab Meeting**, although they are welcome to attend both.
-The Tech Team Meeting will include an update from Deepa regarding information gleaned from users or perspective users.
-Kurt will give a review of project statuses and progress.
-The final half hour will be a presentation from varying members relating to cool new tech, designs of new projects, or anything else that is relevant to the tech team.
-
 **Individual Meetings:** We schedule weekly individual meetings.
 Once you join the lab, contact Casey (or Kurt if you're on the tech team) to set up a time.
 These are set up for a term to accommodate class schedules.
@@ -226,8 +224,8 @@ As a reviewer, you are responsible for making sure that all checklist guidelines
 This is ideal.
 Being able to find them will make sure we don't make the same failure twice.
 
-**Non-Code Versioning:** Non-code documents should be kept in a place that maintains version history (e.g. dropbox for word documents).
-We maintain a dropbox for business account for these purposes.
+**Non-Code Versioning:** Non-code documents should be kept in a place that maintains version history.
+Penn provides [Box](https://upenn.box.com/) for these purposes.
 
 **Data Management:** For publicly available data, scripts used to download and process these data should be preserved, as should the versions of items used in processing (e.g. probe to gene mappings).
 These items should be version controlled.
