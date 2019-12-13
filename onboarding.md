@@ -182,7 +182,8 @@ To prepare for these meetings students and staff are required to create an activ
 
 The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-selfeval-yearmonth (e.g. Greene-selfeval-201908.txt).
 Submit the report in a direct message to Casey via slack.
-
+During the summer, graduate students and post docs are requried to complete Penn's individual development plan (IDP).
+This document covers more in-depth content than the regular triannual review; therefore, the IDP can be used as a replacement annual report for that cycle.
 
 # Source Code, Data, and Reproducibility
 
