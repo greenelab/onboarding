@@ -136,11 +136,10 @@ The update should include the following:
 **Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via the google hangouts link used for scrum.
 Scheduling is managed via a google spreadsheet.
 See the `#general` slack channel's pinned items link.
-Lab meeting consists of three components described below.
+Lab meeting consists of two components described below.
 
 - Journal Club
 - Braintrust
-- Applied Imagination
 
 **Journal Club:** We have a 15 minute journal club to start each lab meeting.
 For journal club, prepare a presentation of 4 papers.
@@ -167,6 +166,23 @@ The goal of the weekly meeting is to:
 
 1.  Discuss challenges.
 2.  Plan strategy (project related, personal career, etc).
+
+**Triannual Review:** Every four months students and staff will individually meet with Casey to discuss current progress made and future goals to accomplish by end of next cycle.
+To prepare for these meetings students and staff are required to create an activity report that contains any of the following information (if applicable):
+
+- publications: submitted/accepted/published
+- grants/fellowships/scholarships: applied/awarded
+- presentations delivered
+- posters presented
+- meeting abstracts: submitted/accepted
+- software releases
+- other honors
+- goals for next session: What would you like to accomplish by the end of next cycle?
+- self-evaluation. What do you regard as your strengths and as areas where you need improvement?
+
+The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-selfeval-yearmonth (e.g. Greene-selfeval-201908.txt).
+Submit the report in a direct message to Casey via slack.
+
 
 # Source Code, Data, and Reproducibility
 
