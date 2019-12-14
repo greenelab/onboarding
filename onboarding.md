@@ -136,11 +136,10 @@ The update should include the following:
 **Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via the google hangouts link used for scrum.
 Scheduling is managed via a google spreadsheet.
 See the `#general` slack channel's pinned items link.
-Lab meeting consists of three components described below.
+Lab meeting consists of two components described below.
 
 - Journal Club
 - Braintrust
-- Applied Imagination
 
 **Journal Club:** We have a 15 minute journal club to start each lab meeting.
 For journal club, prepare a presentation of 4 papers.
@@ -167,6 +166,25 @@ The goal of the weekly meeting is to:
 
 1.  Discuss challenges.
 2.  Plan strategy (project related, personal career, etc).
+
+**Triannual Self Reflection:** Every four months students and staff will individually meet with Casey to discuss their existing goals, current progress made and set goals for the next interval.
+To prepare for these meetings students and staff are required to create an activity report that contains any of the following information (if applicable):
+
+- publications: submitted/accepted/published
+- grants/fellowships/scholarships: applied/awarded
+- presentations delivered
+- posters presented
+- meeting abstracts: submitted/accepted
+- software releases
+- other honors
+- goals for next session: What would you like to accomplish by the end of next cycle?
+- self-reflection. What do you regard as your strengths and as areas where you need improvement?
+
+The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Greene-reflection-201908.txt).
+Submit the report in a direct message to Casey via slack.
+During the summer, graduate students and post docs are requried to complete Penn's individual development plan (IDP).
+This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle.
+Because much of the material is overlapping, trainees will benefit from preserving their self reflection materials in a format that supports copying and pasting to the IDP form.
 
 # Source Code, Data, and Reproducibility
 
