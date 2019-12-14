@@ -167,7 +167,7 @@ The goal of the weekly meeting is to:
 1.  Discuss challenges.
 2.  Plan strategy (project related, personal career, etc).
 
-**Triannual Review:** Every four months students and staff will individually meet with Casey to discuss current progress made and future goals to accomplish by end of next cycle.
+**Triannual Self Reflection:** Every four months students and staff will individually meet with Casey to discuss their existing goals, current progress made and set goals for the next interval.
 To prepare for these meetings students and staff are required to create an activity report that contains any of the following information (if applicable):
 
 - publications: submitted/accepted/published
@@ -178,12 +178,13 @@ To prepare for these meetings students and staff are required to create an activ
 - software releases
 - other honors
 - goals for next session: What would you like to accomplish by the end of next cycle?
-- self-evaluation. What do you regard as your strengths and as areas where you need improvement?
+- self-reflection. What do you regard as your strengths and as areas where you need improvement?
 
-The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-selfeval-yearmonth (e.g. Greene-selfeval-201908.txt).
+The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Greene-reflection-201908.txt).
 Submit the report in a direct message to Casey via slack.
 During the summer, graduate students and post docs are requried to complete Penn's individual development plan (IDP).
-This document covers more in-depth content than the regular triannual review; therefore, the IDP can be used as a replacement annual report for that cycle.
+This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle.
+Because much of the material is overlapping, trainees will benefit from preserving their self reflection materials in a format that supports copying and pasting to the IDP form.
 
 # Source Code, Data, and Reproducibility
 
