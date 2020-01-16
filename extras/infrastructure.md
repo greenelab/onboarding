@@ -24,7 +24,9 @@ These accounts should get added to our:
 ## Purchasing
 
 There are two different purchasing procedures depending on whether or not the vendor is an approved university vendor.
-For approved vendors (check the [Penn Marketplace](http://www.purchasing.upenn.edu/shopper/)), you need to fill out a [pharmacology requisition form](https://github.com/greenelab/onboarding/blob/master/forms-and-docs/regular-vendor-purchase-form.xlsx), and send it to <psom-phorders@pennmedicine.upenn.edu> (Casey should be CCed on the email). You need to fill one requisition form per vendor. Regarding the "Account number" field, check out [greenelab/funds](https://github.com/greenelab/funds) repo and check with Casey which one should be used.
+For approved vendors (check the [Penn Marketplace](http://www.purchasing.upenn.edu/shopper/)), you need to fill out a [pharmacology requisition form](https://github.com/greenelab/onboarding/blob/master/forms-and-docs/regular-vendor-purchase-form.xlsx), and send it to <psom-phorders@pennmedicine.upenn.edu> (Casey should be CCed on the email).
+You need to fill one requisition form per vendor.
+Regarding the "Account number" field, check out [greenelab/funds](https://github.com/greenelab/funds) repo and check with Casey which one should be used.
 
 For other suppliers (such as Amazon.com) where a credit card purchase is required, you will need to:
 
