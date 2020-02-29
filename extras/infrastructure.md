@@ -27,6 +27,7 @@ There are two different purchasing procedures depending on whether or not the ve
 For approved vendors (check the [Penn Marketplace](http://www.purchasing.upenn.edu/shopper/)), you need to fill out a [pharmacology requisition form](https://github.com/greenelab/onboarding/blob/master/forms-and-docs/regular-vendor-purchase-form.xlsx), and send it to <psom-phorders@pennmedicine.upenn.edu> (Casey should be CCed on the email).
 You need to fill one requisition form per vendor.
 Regarding the "Account number" field, check out [greenelab/funds](https://github.com/greenelab/funds) repo and check with Casey which one should be used.
+If trying to place an order near the end of the month, the order should be submitted prior to the last business day in that month, or else after the new month starts. If you have questions, you can talk to Roz Rucker.
 
 For other suppliers (such as Amazon.com) where a credit card purchase is required, you will need to:
 
@@ -34,6 +35,8 @@ For other suppliers (such as Amazon.com) where a credit card purchase is require
 2. Get Casey to sign the **Your Signature** area of the form, then hand it to **Camie Minieri** or **Roz Rucker**.
 3. Instead of listing every item on the form, you can write "See attached below" and the total sum **only** in the form.
 If you do so, please also send the details of your order (such as Amazon URLs) to Roz (`rucker@upenn.edu`), who will compile a detailed order form.
+
+For the delivery address, use Casey's office (10-131 Smilow Center for Translational Research, 3400 Civic Center Boulevard, Philadelphia, PA 19104).
 
 ## Reimbursement
 
