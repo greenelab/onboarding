@@ -38,6 +38,14 @@ If you do so, please also send the details of your order (such as Amazon URLs) t
 
 For the delivery address, use Casey's office (10-131 Smilow Center for Translational Research, 3400 Civic Center Boulevard, Philadelphia, PA 19104).
 
+## Purchasing Computers
+
+If you would like to purchase parts to assemble a desktop, follow the Purchasing procedures above.
+
+Other computers and technological equipment are ordered through the [Computer Connection](https://cms.business-services.upenn.edu/computerstore/). 
+Speak with Paul Culkin (`paul2@upenn.edu`) to generate a quote, then forward to Casey, Maria Guglietti (`gugliett@upenn.edu`) and Roz (`rucker@upenn.edu`). 
+You will likely need to fill out a [pharmacology requisition form](https://github.com/greenelab/onboarding/blob/master/forms-and-docs/regular-vendor-purchase-form.xlsx) in consultation with Roz.
+
 ## Reimbursement
 
 Reimbursement is done using the **Concur Business Travel & Expense Management Software Solution**:
