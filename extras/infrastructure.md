@@ -42,7 +42,9 @@ For the delivery address, use Casey's office (10-131 Smilow Center for Translati
 
 If you would like to purchase parts to assemble a desktop, follow the Purchasing procedures above.
 
-Other computers and technological equipment are ordered through the [Computer Connection](https://cms.business-services.upenn.edu/computerstore/). Speak with Paul Culkin (`paul2@upenn.edu`) to generate a quote. The quote Paul provides should be forwarded to Casey, Maria Guglietti (`gugliett@upenn.edu`) and Roz (`rucker@upenn.edu`). You will likely need to fill out a [pharmacology requisition form](https://github.com/greenelab/onboarding/blob/master/forms-and-docs/regular-vendor-purchase-form.xlsx) in consultation with Roz.
+Other computers and technological equipment are ordered through the [Computer Connection](https://cms.business-services.upenn.edu/computerstore/). 
+Speak with Paul Culkin (`paul2@upenn.edu`) to generate a quote, then forward to Casey, Maria Guglietti (`gugliett@upenn.edu`) and Roz (`rucker@upenn.edu`). 
+You will likely need to fill out a [pharmacology requisition form](https://github.com/greenelab/onboarding/blob/master/forms-and-docs/regular-vendor-purchase-form.xlsx) in consultation with Roz.
 
 ## Reimbursement
 
