@@ -204,7 +204,7 @@ Webserver interface code uses javascript.
 **Licensing:**
 We release as many research outputs as possible under permissive open licenses.
 This ensures lab research is reusable and reproducible, with minimal legal barriers.
-The default license for software applied to new lab related repositories is the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent).
+The default license for software that should be applied to new lab related repositories is the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent).
 This license is [OSI-approved](https://opensource.org/licenses/BSDplusPatent) and [rated highly](https://blueoakcouncil.org/list) for its simplicity, compatability, and effectiveness.
 
 In certain cases, a funding agency requires a different license or upstream restrictions require certain licensing.
