@@ -201,8 +201,14 @@ While some code will be proof-of-concept code, it should be of a form that inspi
 Code for visualization can be Python, R, or javascript.
 Webserver interface code uses javascript.
 
-**Licensing:** We expect code that we produce to be licensed under a 3-clause BSD license.
-Unless a funding agency requires something different, we'll use this.
+**Licensing:**
+We release as many research outputs as possible under permissive open licenses.
+This ensures lab research is reusable and reproducible, with minimal legal barriers.
+The default license for software that should be applied to new lab related repositories is the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent).
+This license is [OSI-approved](https://opensource.org/licenses/BSDplusPatent) and [rated highly](https://blueoakcouncil.org/list) for its simplicity, compatability, and effectiveness.
+
+In certain cases, a funding agency requires a different license or upstream restrictions require certain licensing.
+In these cases, the lab may apply a different license.
 If you have questions or concerns about licensing, feel free to raise them in Slack.
 
 **Version Control Services:** Our primary version control service is GitHub, and we have a [`greenelab` account](https://github.com/greenelab) there.
