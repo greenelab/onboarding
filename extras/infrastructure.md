@@ -53,7 +53,7 @@ Reimbursement is done using the **Concur Business Travel & Expense Management So
 - First [login to Concur Expense](https://medley.isc-seo.upenn.edu/authentication/profile/concur?app=concurprod) using your PennKey.
 Under **Profile Settings** > **Personal Information**, fill in required information.
 Set the default Travel Approver to **Jason Molli**.
-- Ask **Carmela (Camie) Minieri** to make you eligible for expense reports on Concur, which takes at least a day for processing.
+- Ask **Jessica Smalarz** to make you eligible for expense reports on Concur, which takes at least a day for processing.
 You should then be able to submit expenses for reimbursement.
 - Refer to the [tutorial](reimbursement_tutorial.md) to understand the whole reimbursement process.
 
