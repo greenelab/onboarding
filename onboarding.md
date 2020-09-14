@@ -79,8 +79,9 @@ In all cases conference travel should be noted on the lab attendance calendar.
 ## General
 
 **Slack:** We use slack for rapid communication within the lab.
-If you'd send an e-mail to someone within the lab, try a slack message instead.
+If you plan on sending an e-mail to someone within the lab, try a slack message instead.
 This helps to keep communications in one place, and Casey commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
+There are many channels on our lab's slack; however, it is recommend that newcomers join the following channels: `#general`, `#lab-meeting`, `#lab-supplies`, `#journalclub`, `#random`, `#wins`.
 
 **HeyTaco:** We recognize that people regularly go above and beyond lab expectations.
 We wanted a way to recognize each other when this happens.
@@ -119,7 +120,7 @@ Mandatory events such as lab meetings, scrums, and group deadlines go on Core Ev
 
 **Scrum:** Our team's scrum process involves three components:
 
-    1. An opening scrum meeting at 10:00 AM Monday morning where individuals will lay out their goals for the week, in the form of post-it notes, on the whiteboard in the Greene Lab.
+    1. An opening scrum meeting at 9:45 AM Monday morning where individuals will lay out their goals for the week, in the form of post-it notes, on the whiteboard in the Greene Lab.
     2. A closing scrum meeting at 1:40 PM Friday afternoon where team members will reflect on the progress they made on the goals they stated the previous Monday.
     3. A daily virtual scrum update.
 
@@ -133,7 +134,7 @@ The update should include the following:
     3. Who, if anyone, is blocking him/her?
     4. Who, if anyone, is he/she blocking?
 
-**Lab Meeting:** Lab meeting is held weekly at a location at Penn and also via the google hangouts link used for scrum.
+**Lab Meeting:** Lab meeting is held weekly at a location at Penn and also virtually via [uberconference](https://uberconference.com/greenescientist).
 Scheduling is managed via a google spreadsheet.
 See the `#general` slack channel's pinned items link.
 Lab meeting consists of two components described below.
@@ -259,7 +260,7 @@ When we generate data, they should be stored in a location where they are replic
 
 **Reproducibility:** We expect all lab members to maintain code that performs reproducible analyses.
 This can be in the form of makefiles, shell scripts, or other automation approaches that allow analyses to be automatically performed.
-We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories (see "Getting Code into Greenelab Repositories) and made publicly available before or concurrent with the submission of preprint (if submitted) or manuscripts.
+We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories (see "Getting Code into Greenelab Repositories") and made publicly available before or concurrent with the submission of preprint (if submitted) or manuscripts.
 Combined with the review guidelines, this means that all code must have been reviewed for these documents to be submitted.
 
 ## How to Modify this Document
