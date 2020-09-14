@@ -141,17 +141,28 @@ Lab meeting consists of two components described below.
 - Journal Club
 - Braintrust
 
-**Journal Club:** We have a 15 minute journal club to start each lab meeting.
-For journal club, prepare a presentation of 4 papers.
-All except for one should have been published since your last journal club presentation.
-The content you discuss - specifically your summary of the papers - should be the product of thoughtful analysis.
-The presentation itself should be simple.
-During the discussion, please share why you picked the paper, its implication for your research, and any potential implications that touch on other research that is ongoing in the lab.
-For each paper, the presentation should consist of:
+**Journal Club:** This is an opportunity for students to strengthen their ability to comprehend and critically analyze research that has already been conducted.
+For journal club, everyone will be randomly split off into groups of two (three if an odd number of students in the lab).
+Presenters in these groups are expected to present on four papers.
+Three papers will be in the form of lightning talks - where presenters spend 5 to 10 minutes discussing the following: the overall goal of the work, any results presenters found interesting and the paper's implication for presenter's own research or any potential implications that touch on other ongoing research in the lab.
+The final paper will be a more in-depth discussion where presenters will dive deeper into individual experiments and mention how these experiments tie into the paper's global scheme. 
+All selected papers except for one should have a publication date that is later than the most recent paper from your last journal club presentation.
+An example outline for presentations are provided below. 
+For each lightning talk paper, the presentation should consist of:
 
-1.  A title slide
-2.  An overview slide (usually a flow-chart of some sort from the paper, could also be an initial result that sets context).
-3.  The results figure that convinced you to pick this paper.
+1. A title slide
+2. An overview slide (usually a flow-chart of some sort from the paper, could also be an initial result that sets context).
+3. The results figure that convinced you to pick this paper.
+
+For the in-depth discussion, the presentation should consist of:
+
+1. A title slide
+2. Paper's global hypothesis
+2. Overall Experimental Design slide(s) (usually a flow-chart of some sort from the paper).
+3. Results from each experiment and how it ties to the global hypothesis
+4. Take home messages from the paper and how does the paper relate to research in the lab
+5. (Optional) Brief discussion on possible follow up experiments
+
 
 **Braintrust:** This is an opportunity to share anything that you wish to talk about with the group.
 This could be a confounding result, an interesting result, an analysis that isn’t working, a demo of a cool new technology etc.
