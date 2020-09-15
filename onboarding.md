@@ -141,8 +141,8 @@ Lab meeting consists of two components described below.
 - Journal Club
 - Braintrust
 
-**Journal Club:** This is an opportunity for students to strengthen their ability to comprehend and critically analyze research that has already been conducted.
-For journal club, everyone will be randomly split off into groups of two (three if an odd number of students in the lab).
+**Journal Club:** This is an opportunity for lab members to strengthen their ability to comprehend and critically analyze research that has already been conducted.
+For journal club, everyone will be randomly split off into groups of two (or three if an odd number of lab members).
 Presenters in these groups are expected to present on four papers.
 Three papers will be in the form of lightning talks - where presenters spend 5 to 10 minutes discussing the following: the overall goal of the work, any results presenters found interesting and the paper's implication for presenter's own research or any potential implications that touch on other ongoing research in the lab.
 The final paper will be a more in-depth discussion where presenters will dive deeper into individual experiments and mention how these experiments tie into the paper's global scheme. 
