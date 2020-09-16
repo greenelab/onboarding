@@ -158,11 +158,11 @@ For each lightning talk paper, the presentation should consist of:
 For the in-depth discussion, the presentation should consist of:
 
 1. A title slide
-2. Paper's global hypothesis
-2. Overall Experimental Design slide(s) (usually a flow-chart of some sort from the paper).
-3. Results from each experiment and how it ties to the global hypothesis
+2. Paper's global hypothesis: What do the author(s) want to know (motivation)? What are the key questions they want answered? Why do they think these question(s) are important?
+2. Overall Experimental Design slide(s) (usually a flow-chart of some sort from the paper). What data are they using? Why was it done that way? (context within the field)
+3. Results from each experiment and how it ties to the global hypothesis. What is the design of the experiment? What are the controls? Evaluation metric? How does this figure relate back to the broad question of the paper?
 4. Take home messages from the paper and how does the paper relate to research in the lab
-5. (Optional) Brief discussion on possible follow up experiments
+5. (Optional) Brief discussion on possible follow up experiments. Are the findings convincing?
 
 **Braintrust:** This is an opportunity to share anything that you wish to talk about with the group.
 This could be a confounding result, an interesting result, an analysis that isn’t working, a demo of a cool new technology etc.
