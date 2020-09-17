@@ -148,7 +148,8 @@ Presenters in these groups are expected to present on four papers.
 Three papers will be in the form of lightning talks - where presenters spend 5 to 10 minutes discussing the following: the overall goal of the work, any results presenters found interesting and the paper's implication for presenter's own research or any potential implications that touch on other ongoing research in the lab.
 The final paper will be a more in-depth discussion where presenters will dive deeper into individual experiments and mention how these experiments tie into the paper's global scheme. 
 All selected papers except for one should have a publication date that is later than the most recent paper from your last journal club presentation.
-An example outline for presentations are provided below. 
+If this is your very first journal club, you are free to pick papers from any publication date to start; however, current members within the lab should abide by the date rule above.
+An example outline for presentations are provided below and an example template can be found [here](https://docs.google.com/presentation/d/1vUHVWczssPMEQsZuKBZX-ahs0A5Wioo3w7LVrnNAkz4/edit#slide=id.g9909ae81f5_0_78).
 For each lightning talk paper, the presentation should consist of:
 
 1. A title slide
