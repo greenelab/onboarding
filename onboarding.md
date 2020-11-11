@@ -81,7 +81,7 @@ In all cases conference travel should be noted on the lab attendance calendar.
 **Slack:** We use slack for rapid communication within the lab.
 If you plan on sending an e-mail to someone within the lab, try a slack message instead.
 This helps to keep communications in one place, and Casey commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
-There are many channels on our lab's slack; however, it is recommend that newcomers join the following channels: `#general`, `#lab-meeting`, `#lab-supplies`, `#journalclub`, `#random`, `#wins`.
+There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meeting`, `#lab-supplies`, `#journalclub`, `#random`, `#wins`.
 
 **HeyTaco:** We recognize that people regularly go above and beyond lab expectations.
 We wanted a way to recognize each other when this happens.
@@ -93,7 +93,7 @@ When one member accumulates enough points, they take the lab out to lunch (Casey
 
 **Social Media:** Lab members are encouraged to communicate through public social media, and if you choose to do so then you are expected to follow our code of conduct.
 
-**Projects:** By the nature of our research, lab members will often have the opportunity to participate projects managed via private or publicly accessible source code repositories.
+**Projects:** By the nature of our research, lab members will often have the opportunity to participate in projects managed via private or publicly accessible source code repositories.
 In these cases, lab members are expected to: follow the code of conduct; expect that private repositories will be world accessible; and to communicate via the project-specific medium (e.g. if Rene reported an issue on a project on GitHub, it would not be appropriate for Casey to reply "I'll drop by your desk and show you how to solve that.").
 
 **IP/Openness:** This is handled in accordance with the instructions from our research sponsors and university guidance.
