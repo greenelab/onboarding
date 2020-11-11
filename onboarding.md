@@ -66,7 +66,7 @@ Questions around what document(s) their committee will expect to see and when th
 Students in the Greene lab are not to provide food or drinks for committee members.
 If the students are in a graduate program where a culture of providing food and drinks to committee members has developed, the students can include the information that no food or drink will be provided on an email in advance of the meeting and cite this policy.
 
-**Conference Travel:** We try to make sure that each member of the lab can travel to once conference per year of their choice outside of the Philadelphia region.
+**Conference Travel:** We try to make sure that each member of the lab can travel to one conference per year of their choice outside of the Philadelphia region.
 The conference should be within the continental United States or cost competitive with similar conferences in the continental US.
 Lab members who travel to such a conference should submit an abstract for an oral presentation and poster and should present in whatever form is accepted at the meeting.
 The conference should be topical for the lab member's research projects and the purpose must align with the grant(s) that support the lab member.
