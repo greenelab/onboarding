@@ -66,7 +66,7 @@ Questions around what document(s) their committee will expect to see and when th
 Students in the Greene lab are not to provide food or drinks for committee members.
 If the students are in a graduate program where a culture of providing food and drinks to committee members has developed, the students can include the information that no food or drink will be provided on an email in advance of the meeting and cite this policy.
 
-**Conference Travel:** We try to make sure that each member of the lab can travel to once conference per year of their choice outside of the Philadelphia region.
+**Conference Travel:** We try to make sure that each member of the lab can travel to one conference per year of their choice outside of the Philadelphia region.
 The conference should be within the continental United States or cost competitive with similar conferences in the continental US.
 Lab members who travel to such a conference should submit an abstract for an oral presentation and poster and should present in whatever form is accepted at the meeting.
 The conference should be topical for the lab member's research projects and the purpose must align with the grant(s) that support the lab member.
@@ -81,7 +81,7 @@ In all cases conference travel should be noted on the lab attendance calendar.
 **Slack:** We use slack for rapid communication within the lab.
 If you plan on sending an e-mail to someone within the lab, try a slack message instead.
 This helps to keep communications in one place, and Casey commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
-There are many channels on our lab's slack; however, it is recommend that newcomers join the following channels: `#general`, `#lab-meeting`, `#lab-supplies`, `#journalclub`, `#random`, `#wins`.
+There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meeting`, `#lab-supplies`, `#journalclub`, `#random`, `#wins`.
 
 **HeyTaco:** We recognize that people regularly go above and beyond lab expectations.
 We wanted a way to recognize each other when this happens.
@@ -93,7 +93,7 @@ When one member accumulates enough points, they take the lab out to lunch (Casey
 
 **Social Media:** Lab members are encouraged to communicate through public social media, and if you choose to do so then you are expected to follow our code of conduct.
 
-**Projects:** By the nature of our research, lab members will often have the opportunity to participate projects managed via private or publicly accessible source code repositories.
+**Projects:** By the nature of our research, lab members will often have the opportunity to participate in projects managed via private or publicly accessible source code repositories.
 In these cases, lab members are expected to: follow the code of conduct; expect that private repositories will be world accessible; and to communicate via the project-specific medium (e.g. if Rene reported an issue on a project on GitHub, it would not be appropriate for Casey to reply "I'll drop by your desk and show you how to solve that.").
 
 **IP/Openness:** This is handled in accordance with the instructions from our research sponsors and university guidance.
