@@ -22,9 +22,9 @@ This setup will also use the following packages (versions can be changed as need
 1. Set up your python environment to use python>=3.5 
 2. Call ``pip install pre-commit==2.9.3``
 3. call ``pip install black==20.8b1``
-4. Create a file with the extension .pre-commit-config.yaml and fill in with lines of code reproduced in the [Configuration Files](###Pre-commit) section
-5. Create a file with the extension .flake8 and fill in with lines of code reproduced in the [Configuration Files](###Flake8) section
-6. Create a file with the extension .toml and fill in with lines of code reproduced in the [Configuration Files](###Black) section
+4. Create a file with the extension .pre-commit-config.yaml and fill in with lines of code reproduced in the [Configuration Files](#Pre-commit) section
+5. Create a file with the extension .flake8 and fill in with lines of code reproduced in the [Configuration Files](#Flake8) section
+6. Create a file with the extension .toml and fill in with lines of code reproduced in the [Configuration Files](#Black) section
 7. Then call command ``pre-commit install`` to install the pipeline to run after the ``git commit`` command is called.
 8. Now the pipeline is installed, and you can test it by calling ``pre-commit``.
 9. Now you can proceed with normal code development and GitHub processes
