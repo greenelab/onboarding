@@ -12,7 +12,7 @@ R code follows [Google's R Style Guide](https://google.github.io/styleguide/Rgui
 JavaScript code follows [Google's JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml).
 HTML and CSS follow [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml).
 We expect that each person runs a linter (if you're not sure -- [ask](https://greenelab.slack.com/messages/codereview/)!) as part of their development environment.
-We provide instructions on how to automate this linting process [here](linter_install_tutorial.md)
+We provide instructions on how to automate the linting process [here](linter_install_tutorial.md)
 
 **Variable and Function Names:** Variable names are descriptive and interpretable to someone looking at this code for the first time (e.g. not `a`, `b`, `x`, etc.).
 
