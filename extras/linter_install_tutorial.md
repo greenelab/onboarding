@@ -1,4 +1,4 @@
-# Install Linter to Automatically Run Before GitHub Commit
+# Install Linter to Automatically Run Before Git Commit
 
 ## About
 
