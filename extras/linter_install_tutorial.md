@@ -16,13 +16,14 @@ This setup will also use the following packages (versions can be changed as need
 1. pre-commit==2.9.3
 2. black==20.8b1 
 3. jupytext==1.9.1
+4. flake8==3.8.4
 
 ## Installation Instructions
 
 1. Set up your python environment to use python>=3.5 
 2. Call ``pip install pre-commit==2.9.3``
 3. call ``pip install black==20.8b1``
-4. Create a file with the extension .pre-commit-config.yaml and fill in with lines of code reproduced in the [Configuration Files](#Pre-commit) section
+4. Create a file with the extension .pre-commit-config.yml and fill in with lines of code reproduced in the [Configuration Files](#Pre-commit) section
 5. Create a file with the extension .flake8 and fill in with lines of code reproduced in the [Configuration Files](#Flake8) section
 6. Create a file with the extension .toml and fill in with lines of code reproduced in the [Configuration Files](#Black) section
 7. Then call command ``pre-commit install`` to install the pipeline to run after the ``git commit`` command is called.
@@ -63,6 +64,36 @@ repos:
     hooks:
     - id: trailing-whitespace
 ```
+
+#### Pre-commit with Specified folders
+
+If one wants to allocate all scripts to one folder and notebooks to another folder use this file instead.
+Just replace notebooks and scripts with the filenames you need. [Documentation here](https://github.com/mwouts/jupytext/blob/master/docs/config.md#per-notebook-configuration)
+
+```yaml
+repos:
+
+- repo: https://github.com/mwouts/jupytext
+  rev: 41b7e9c93b50da1d6feb486aceb2c4d534374090
+  hooks:
+  - id: jupytext
+    name: jupytext_auto_linter
+    args: [--set-formats, 'notebooks//ipynb,scripts//py', --from, ipynb, --pipe, black, --to, py:light, --sync]
+
+- repo: https://gitlab.com/pycqa/flake8
+  rev: 6de8252c035844f1e679f509b5f37340b44d5c39
+  hooks:
+  - id: flake8
+
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: 43f5ffaeab549e15168317892bf217dd450aa41b
+    hooks:
+    - id: trailing-whitespace
+```
+
+Depending on repository organization some may want to have files be in specific folders rather than in a centralized way.
+Currently, there isn't a great way to accomplish this feature without manually calling ``jupytext -- set-formats notebook_folder_name//ipynb, script_folder_name//py``.
+Then, remove the ``--set-formats, 'notebooks//ipynb,scripts//py'`` part from the config file and run pre-commit like normal.
 
 ### Flake8
 
