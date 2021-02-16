@@ -78,7 +78,7 @@ repos:
   hooks:
   - id: jupytext
     name: jupytext_auto_linter
-    args: [--set-formats, 'notebook_folder_name//ipynb,script_folder_name//py', --from, ipynb, --pipe, black, --to, py:light, --sync]
+    args: [--set-formats, 'notebook_folder_path//ipynb, script_folder_path//py', --from, ipynb, --pipe, black, --to, py:light, --sync]
 
 - repo: https://gitlab.com/pycqa/flake8
   rev: 6de8252c035844f1e679f509b5f37340b44d5c39
@@ -92,8 +92,8 @@ repos:
 ```
 
 Depending on repository organization some may want to have files be in specific folders rather than in a centralized way.
-Currently, there isn't a great way to accomplish this feature without manually calling ``jupytext --set-formats 'notebook_folder_name//ipynb,script_folder_name//py'``.
-Then, remove the ``--set-formats, 'notebook_folder_name//ipynb,script_folder_name//py'`` part from the config file and run pre-commit like normal.
+Currently, there isn't a great way to accomplish this feature without manually calling ``jupytext --set-formats 'notebook_folder_path//ipynb,script_folder_path//py' notebook_folder_path/<notebook name>.ipynb``.
+Then, remove the ``--set-formats, 'notebook_folder_path//ipynb, script_folder_path//py'`` part from the config file and run pre-commit like normal.
 
 ### Flake8
 
