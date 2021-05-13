@@ -179,7 +179,7 @@ The goal of the weekly meeting is to:
 1.  Discuss challenges.
 2.  Plan strategy (project related, personal career, etc).
 
-**Triannual Self Reflection:** Every four months students and staff will individually meet with Casey to discuss their existing goals, current progress made and set goals for the next interval.
+**Triannual Self Reflection:** Every four months students, postdocs, and staff will individually meet with Casey to discuss their existing goals, current progress made and set goals for the next interval.
 To prepare for these meetings students and staff are required to create an activity report that contains any of the following information (if applicable):
 
 - publications: submitted/accepted/published
