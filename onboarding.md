@@ -121,10 +121,14 @@ Mandatory events such as lab meetings, scrums, and group deadlines go on Core Ev
 **Scrum:** Our team's scrum process involves three components:
 
     1. An opening scrum meeting at 9:45 AM Monday morning where individuals will lay out their goals for the week, in the form of post-it notes, on the whiteboard in the Greene Lab.
-    2. A closing scrum meeting at 1:40 PM Friday afternoon where team members will reflect on the progress they made on the goals they stated the previous Monday.
+    2. A demo day meeting at 1:30 PM Friday afternoon where team members show off an accomplishment from the week in 3 minutes or fewer. This could be a new figure, section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
     3. A daily virtual scrum update.
 
+We use Google Slides to share figures or paper sections for the demo day meeting; the link is pinned in the `#lab-meeting` channel on Slack and is not intended to be shared outside the lab. If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments. 
+
+
 The daily virtual scrum update should include an update to [scrum repository](https://github.com/greenelab/scrum).
+
 An issue is automatically created for each day the office is open.
 These issues can be found [here](https://github.com/greenelab/scrum/issues).
 The update should include the following:
