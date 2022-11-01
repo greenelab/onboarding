@@ -1,6 +1,6 @@
 # Greene Lab Onboarding Repository
 
-The repository is home to the onboarding information for the [Greene Lab](http://www.greenelab.com/) at the University of Pennsylvania.
+The repository is home to the onboarding information for the [Greene Lab](http://www.greenelab.com/) at the University of Colorado School of Medicine.
 **See [`onboarding.md`](onboarding.md)** for the onboarding information.
 
 ## Contributing
