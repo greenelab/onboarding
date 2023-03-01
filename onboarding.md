@@ -169,6 +169,15 @@ The update should include the following:
   **Ad-Hoc Meetings:** After meetings have been scheduled for the semester, any member can add an ad hoc meeting as needed.
    - Ad hoc meetings are meant to help lab members get advice and help on projects, prepare for talks, oral exams, etc.
 
+**Individual Meetings:** We schedule weekly individual meetings.
+ Once you join the lab, contact Casey and Michelle to set up a time.
+ These are set up for a term to accommodate class schedules.
+ We don’t reschedule these meetings by default if one of the parties (Casey or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Casey and Michelle to reschedule.
+ The goal of the weekly meeting is to:
+
+ 1.  Discuss challenges.
+ 2.  Plan strategy (project related, personal career, etc).
+
 **Triannual Self Reflection:** Every four months students, postdocs, and staff will individually meet with Casey to discuss their existing goals, current progress made and set goals for the next interval.
 To prepare for these meetings students and staff are required to create an activity report that contains any of the following information (if applicable):
 
