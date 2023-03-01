@@ -57,7 +57,8 @@ We expect that lab members will design experiments in a manner that minimizes bo
 We expect that lab members will keep agreements, be careful, and share their code and results openly with the scientific community.
 We expect that credit will be given where credit is due, including in scientific writing.
 Plagiarism is not tolerated.
-While a full enumeration of ethical considerations is outside of the scope of this document, CU provides a [https://www.cu.edu/ope/aps/2027] that we recommend.
+While a full enumeration of ethical considerations is outside of the scope of this document, CU provides a [document](https://www.cu.edu/ope/aps/2027) that we recommend.
+
 In addition, please don't hesitate to raise any questions or concerns that you have at any point with Casey.
 
 **PhD Student Committees:** PhD students will interact with their qualifier and thesis committees.
