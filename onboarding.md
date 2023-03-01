@@ -105,6 +105,8 @@ Lab members must follow the Penn Participation Agreement (for Penn-affiliated la
 These often allow, encourage, or require openness.
 If you have concerns at any point, set up a meeting with Casey to discuss these concerns.
 
+**Space:** Space is assigned in accordance with the [Department of Biomedical Informatics Space Policies](https://olucdenver.sharepoint.com/sites/CenterforHealthAI939/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=x1Oz36&cid=4490ca17%2D62a2%2D4093%2Da390%2Dcc8896df587d&FolderCTID=0x012000F2C178B56384E246B75AF7E31B7DEA98&id=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy%2FDBMI%20remote%2Dworking%20and%20space%20guidelines%5FFinal%2Epdf&parent=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy). For individuals meeting the criteria for assigned space, a lab member needs to fill out the [DBMI Space Request Form](https://app.smartsheet.com/b/form/575a2b48af774e3db5689745809c9a5c).
+
 **Calendars:** There are two Google Calendars for the lab:
 Greene Lab Core Events ([webview](https://calendar.google.com/calendar/embed?src=h1eia9g7qu1udm079vsav7qlq0%40group.calendar.google.com&ctz=America%2FNew_York), Calendar ID `h1eia9g7qu1udm079vsav7qlq0`)
 and Greene Lab Attendance ([webview](https://calendar.google.com/calendar/embed?src=dk2vdln8ci4mh1m723df6rcb3s%40group.calendar.google.com&ctz=America%2FNew_York), Calendar ID `dk2vdln8ci4mh1m723df6rcb3s`).
