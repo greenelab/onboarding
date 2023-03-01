@@ -57,7 +57,7 @@ We expect that lab members will design experiments in a manner that minimizes bo
 We expect that lab members will keep agreements, be careful, and share their code and results openly with the scientific community.
 We expect that credit will be given where credit is due, including in scientific writing.
 Plagiarism is not tolerated.
-While a full enumeration of ethical considerations is outside of the scope of this document, Penn provides a [handbook](https://provost.upenn.edu/uploads/media_items/ethics-handbook.original.pdf) that we recommend.
+While a full enumeration of ethical considerations is outside of the scope of this document, CU provides a [https://www.cu.edu/ope/aps/2027] that we recommend.
 In addition, please don't hesitate to raise any questions or concerns that you have at any point with Casey.
 
 **PhD Student Committees:** PhD students will interact with their qualifier and thesis committees.
@@ -141,49 +141,32 @@ The update should include the following:
     3. Who, if anyone, is blocking them?
     4. Who, if anyone, are they blocking?
 
-**Lab Meeting:** Lab meeting is held virtually on zoom at a presenter-created link.
-Scheduling is managed via the google calendar.
-Lab meeting consists of two components described below.
+**Lab Meeting:** 
+- Lab meetings are scheduled for one hour on Wednesdays. All members of the Greene lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
 
-- Journal Club
-- Braintrust
+   **Meeting Agenda:**  The format of each meeting will be chosen by the lab meeting lead from the options below. The lead will rotate among lab members (see below) within the group. Guests with aligned research interests may join with a supermajority vote of lab members (>⅔) and are expected to attend and participate fully.
+    The lead will choose the format for each meeting. The different options for meeting formats are outlined below. Each member is expected to lead at least two Braintrust meetings per year (one every 6 months). 
 
-**Journal Club:** This is an opportunity for lab members to strengthen their ability to comprehend and critically analyze research that has already been conducted.
-For journal club, everyone will be randomly split off into groups of two (or three if an odd number of lab members).
-Presenters in these groups are expected to present on four papers.
-Three papers will be in the form of lightning talks - where presenters spend 5 to 10 minutes discussing the following: the overall goal of the work, any results presenters found interesting and the paper's implication for presenter's own research or any potential implications that touch on other ongoing research in the lab.
-The final paper will be a more in-depth discussion where presenters will dive deeper into individual experiments and mention how these experiments tie into the paper's global scheme. 
-All selected papers except for one should have a publication date that is later than the most recent paper from your last journal club presentation.
-If this is your very first journal club, you are free to pick papers from any publication date to start; however, current members within the lab should abide by the date rule above.
-An example outline for presentations are provided below and an example template can be found [here](https://docs.google.com/presentation/d/1vUHVWczssPMEQsZuKBZX-ahs0A5Wioo3w7LVrnNAkz4/edit#slide=id.g9909ae81f5_0_78).
-For each lightning talk paper, the presentation should consist of:
+   - **Format 1: Braintrust**
+        - The meeting lead presents their own research/project to the group. Presenters often focus on open questions or challenges in their work. Occasionally, they present a new talk or set of slides that they intend to deliver at a meeting, job talk, etc. This is a way for the group to get familiar with each other’s work. It is also a good way to get feedback, advice, or help with research if needed.
+   - **Format 2: Tech Talk/Discussion**
+        - Talks on commonly used tech in the labs, or strategies for staying on top of the literature, organization, etc.    
+   - **Format 3: Post-Conference Presentations**
+        - Journal club talk on favorite poster/talk. Either from each person or from a selected set that the group votes on.
+   - **Format 4: Big ideas or Projects**
+        - This format is meant to help senior members practice for paper discussion sections/conclusions while helping newer members see where the boundaries of fields are.
+   - **Format 5: Journal Club**
+       - Presentation to be given by meeting leader followed by group discussion. The meeting leader should aim to send the chosen paper one week before the scheduled meeting, and lab members are expected to be familiar with the content for discussion.
+   - **Format 6: Preprint Review**
+       - Pre-print is discussed by the group. The discussion is led by the meeting leader,  and all members are expected to be familiar with the content. The review is written collaboratively, but another member (not the meeting leader) formats, formalizes and uploads to the pre-print server as a comment.
 
-1. A title slide
-2. An overview slide (usually a flow-chart of some sort from the paper, could also be an initial result that sets context).
-3. The results figure that convinced you to pick this paper.
+  **Lab Meeting Lead:**  A member of the Greene lab is expected to present/lead each lab meeting as scheduled in the lab meeting calendar (found [https://docs.google.com/document/d/12mcW_1PDqmoli6W-1Mn9o0bCNHOl4Ym0yUzp2NFxBlM/edit])
+   - Each member is expected to sign up as lead by the end of the previous academic semester (e.g., sign up by December for the Spring semester, sign up by June for the Fall semester.)
+   - Lab meeting sign-ups will happen twice a year. Sign-ups will open in December and June for the upcoming 6 months.
+   - Each member will sign up as lead for at least 2 lab meetings each semester (6 months). At least one of these meetings is expected to be a Braintrust meeting.
 
-For the in-depth discussion, the presentation should consist of:
-
-1. A title slide
-2. Paper's global hypothesis: What do the author(s) want to know (motivation)? What are the key questions they want answered? Why do they think these question(s) are important?
-2. Overall Experimental Design slide(s) (usually a flow-chart of some sort from the paper). What data are they using? Why was it done that way? (context within the field)
-3. Results from each experiment and how it ties to the global hypothesis. What is the design of the experiment? What are the controls? Evaluation metric? How does this figure relate back to the broad question of the paper?
-4. Take home messages from the paper and how does the paper relate to research in the lab
-5. (Optional) Brief discussion on possible follow up experiments. Are the findings convincing?
-
-**Braintrust:** This is an opportunity to share anything that you wish to talk about with the group.
-This could be a confounding result, an interesting result, an analysis that isn’t working, a demo of a cool new technology etc.
-This is your chance to have the group focus on and help you solve a challenge that you’re facing or to share something interesting that you've discovered with the group.
-Scheduling is voluntary, but each member of the lab is expected to share at least once every three months.
-
-**Individual Meetings:** We schedule weekly individual meetings.
-Once you join the lab, contact Casey and Michelle to set up a time.
-These are set up for a term to accommodate class schedules.
-We don’t reschedule these meetings by default if one of the parties (Casey or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Casey and Michelle to reschedule.
-The goal of the weekly meeting is to:
-
-1.  Discuss challenges.
-2.  Plan strategy (project related, personal career, etc).
+  **Ad-Hoc Meetings:** After meetings have been scheduled for the semester, any member can add an ad hoc meeting as needed.
+   - Ad hoc meetings are meant to help lab members get advice and help on projects, prepare for talks, oral exams, etc.
 
 **Triannual Self Reflection:** Every four months students, postdocs, and staff will individually meet with Casey to discuss their existing goals, current progress made and set goals for the next interval.
 To prepare for these meetings students and staff are required to create an activity report that contains any of the following information (if applicable):
