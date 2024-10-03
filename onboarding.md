@@ -16,9 +16,6 @@ As a member of the lab, you are expected to participate fully in the team.
 In general, lab members are expected to follow weekday working hours that include 9:30AM to 4:00PM in their local timezone to facilitate discussion within the group.
 We will aim to schedule meetings that respect these hours to the extent possible between the Eastern and Pacific timezones, recognizing that certain meetings (weekly kick-off and demo day) may fall outside of these hours in certain timezones.
 In no cases should recurring meetings be scheduled that routinely fall outside of 8:00AM to 5:00PM for any lab member working within the continental United States.
-The Department of Biomedical Informatics at CU, which our lab is part of, provides assigned workspaces for those on campus three or more days per week.
-Those on-site fewer than three days per week use hotelling spaces.
-Any postdoc or staff member working remotely for any number of days per week is expected to have an approved [Remote Work Participation Agreement](https://www.ucdenver.edu/offices/human-resources/remote-work-participation-agreement) in accordance with campus policies.
 
 **Casey's role:** Casey’s goal is to facilitate your success as well as that of your project.
 Within your project, Casey will serve as a sounding board for ideas, will help you plan your project, and will help to devise experiments to test your hypotheses.
