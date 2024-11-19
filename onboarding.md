@@ -85,15 +85,7 @@ In all cases conference travel should be noted on the lab attendance calendar.
 **Slack:** We use slack for rapid communication within the lab.
 If you plan on sending an e-mail to someone within the lab, try a slack message instead.
 This helps to keep communications in one place, and Casey commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
-There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meeting`, `#journalclub`, `#random`, `#wins`.
-
-**HeyTaco:** We recognize that people regularly go above and beyond lab expectations.
-We wanted a way to recognize each other when this happens.
-We now use HeyTaco.
-This allows lab members to send a quick virtual thank you note and/or pat on the back.
-If someone’s paper gets accepted or someone helps you out with a programming question, congratulate or thank them.
-Post a message that mentions any user in the `#wins` Slack channel, and they'll get a HeyTaco point.
-When one member accumulates enough points, they take the lab out to lunch (Casey pays).
+There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meeting`, `#random`.
 
 **Social Media:** Lab members are encouraged to communicate through public social media.
 If a lab member chooses to do so on an account that notes an affiliation with the lab, the lab member is expected to follow our code of conduct.
@@ -105,33 +97,23 @@ For example, when one lab member reports an issue on a project on GitHub, it wou
 It would be most appropriate for the conversation to take place on GitHub issues.
 
 **IP/Openness:** This is handled in accordance with the instructions from our research sponsors and university guidance.
-Lab members must follow the Penn Participation Agreement (for Penn-affiliated lab members) or [University of Colorado | Anschutz policies](https://www.cuanschutz.edu/cu-innovations/cu-innovations/innovator-resources/innovation-resource-guide/policies-documents) (for CU-affiliated lab members) and the agreements with our sponsors.
+Lab members must follow the [University of Colorado | Anschutz policies](https://www.cuanschutz.edu/cu-innovations/cu-innovations/innovator-resources/innovation-resource-guide/policies-documents) (for CU-affiliated lab members) and the agreements with our sponsors.
 These often allow, encourage, or require openness.
 If you have concerns at any point, set up a meeting with Casey to discuss these concerns.
 
 **Space:** Space is assigned in accordance with the [Department of Biomedical Informatics Space Policies](https://olucdenver.sharepoint.com/sites/CenterforHealthAI939/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=x1Oz36&cid=4490ca17%2D62a2%2D4093%2Da390%2Dcc8896df587d&FolderCTID=0x012000F2C178B56384E246B75AF7E31B7DEA98&id=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy%2FDBMI%20remote%2Dworking%20and%20space%20guidelines%5FFinal%2Epdf&parent=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy). For individuals meeting the criteria for assigned space, a lab member needs to fill out the [DBMI Space Request Form](https://app.smartsheet.com/b/form/575a2b48af774e3db5689745809c9a5c).
 
-**Calendars:** There are two Google Calendars for the lab:
-Greene Lab Core Events ([webview](https://calendar.google.com/calendar/embed?src=h1eia9g7qu1udm079vsav7qlq0%40group.calendar.google.com&ctz=America%2FNew_York), Calendar ID `h1eia9g7qu1udm079vsav7qlq0`)
-and Greene Lab Attendance ([webview](https://calendar.google.com/calendar/embed?src=dk2vdln8ci4mh1m723df6rcb3s%40group.calendar.google.com&ctz=America%2FNew_York), Calendar ID `dk2vdln8ci4mh1m723df6rcb3s`).
-The Attendance calendar is for noting individual availability (i.e. whether you'll be out of office).
-It should be used, for example, to note vacations, conference travel, and other workday conflicts.
-All other events should go in the Core Events calendar.
-In general, this calendar is for events that could possibly involve 3 or more lab members.
-Mandatory events such as lab meetings, scrums, and group deadlines go on Core Events.
-
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
 
 + GitHub (greenelab)
-+ Google Calender (Shared Calendar)
 + Slack (GreeneLab)
 
 ## Meetings
 
 **Scrum:** Our team's scrum process involves three components:
 
-    1. A weekly kick-off meeting at 10:30 AM ET / 8:30 AM MT Monday morning where individuals will lay out their goals for the week on zoom.
-    2. A demo day meeting at 3:30 PM ET / 1:30 PM MT Friday afternoon where team members show off an accomplishment from the week in 3 minutes or fewer. This could be a new figure, section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
+    1. A weekly kick-off meeting at 8:30 AM MT Monday morning where individuals will lay out their goals for the week on zoom.
+    2. A demo day meeting at 1:30 PM MT Friday afternoon where team members show off an accomplishment from the week in 3 minutes or fewer. This could be a new figure, section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
     3. A daily virtual scrum update.
 
 We use Google Slides to share figures or paper sections for the demo day meeting; the link is pinned in the `#lab-meeting` channel on Slack and is not intended to be shared outside the lab. If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments. 
@@ -148,7 +130,7 @@ The update should include the following:
     4. Who, if anyone, are they blocking?
 
 **Lab Meeting:** 
-- Lab meetings are scheduled for one hour on Wednesdays. All members of the Greene lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
+- Lab meetings are scheduled for one hour on the third Wednesday of the month. All members of the Greene lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
 
    **Meeting Agenda:**  The format of each meeting will be chosen by the lab meeting lead from the options below. The lead will rotate among lab members (see below) within the group. Guests with aligned research interests may join with a supermajority vote of lab members (>2/3) and are expected to attend and participate fully.
 
@@ -167,7 +149,7 @@ The update should include the following:
    - **Format 6: Preprint Review**
        - Pre-print is discussed by the group. The discussion is led by the meeting leader,  and all members are expected to be familiar with the content. The review is written collaboratively, but another member (not the meeting leader) formats, formalizes and uploads to the pre-print server as a comment.
 
-  **Lab Meeting Lead:**  A member of the Greene lab is expected to present/lead each lab meeting as scheduled in the lab meeting calendar (found [https://docs.google.com/document/d/12mcW_1PDqmoli6W-1Mn9o0bCNHOl4Ym0yUzp2NFxBlM/edit])
+  **Lab Meeting Lead:**  
    - Each member is expected to sign up as lead by the end of the previous academic semester (e.g., sign up by December for the Spring semester, sign up by June for the Fall semester.)
    - Lab meeting sign-ups will happen twice a year. Sign-ups will open in December and June for the upcoming 6 months.
    - Each member will sign up as lead for at least 2 lab meetings each semester (6 months). At least one of these meetings is expected to be a Braintrust meeting.
@@ -199,7 +181,7 @@ To prepare for these meetings students and staff are required to create an activ
 
 The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Greene-reflection-201908.txt).
 Submit the report in a direct message to Casey via slack.
-During the summer, graduate students are requried to complete Penn's individual development plan (IDP).
+During the summer, graduate students are required to complete an individual development plan (IDP).
 Post-docs must complete an IDP prior to their annual contract renewal.
 This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle.
 Because much of the material is overlapping, trainees will benefit from preserving their self reflection materials in a format that supports copying and pasting to the IDP form.
@@ -267,7 +249,6 @@ This is ideal.
 Being able to find them will make sure we don't make the same failure twice.
 
 **Non-Code Versioning:** Non-code documents should be kept in a place that maintains version history.
-Penn provides [Box](https://upenn.box.com/) for these purposes.
 The University of Colorado provides [OneDrive](https://medschool.zendesk.com/hc/en-us/sections/360005497433-OneDrive) for this purpose.
 
 **Data Management:** For publicly available data, scripts used to download and process these data should be preserved, as should the versions of items used in processing (e.g. probe to gene mappings).
@@ -293,4 +274,3 @@ The pull request process is handled as described in the Getting Code into Greene
 + [code review checklist](extras/code_review_checklist.md)
 + [deployment checklist](extras/deployment_checklist.md)
 + [infrastructure](extras/infrastructure.md)
-+ [newcomers info](extras/newcomers_info.md)
