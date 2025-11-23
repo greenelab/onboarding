@@ -16,7 +16,10 @@ As a member of the lab, you are expected to participate fully in the team.
 In general, lab members are expected to follow weekday working hours that include 9:30AM to 4:00PM in their local timezone to facilitate discussion within the group.
 We will aim to schedule meetings that respect these hours to the extent possible between the Eastern and Pacific timezones, recognizing that certain meetings (weekly kick-off and demo day) may fall outside of these hours in certain timezones.
 In no cases should recurring meetings be scheduled that routinely fall outside of 8:00AM to 5:00PM for any lab member working within the continental United States.
-The Department of Biomedical Informatics at CU, which our lab is part of, provides assigned workspaces for those on campus three or more days per week.
+CU Anschutz has developed guidance for hybrid work.
+The Department of Biomedical Informatics (DBMI), which our lab is part of, follows this guidance.
+For individuals not covered by the legacy exemption, this includes at least three days per week of on-site work.
+Our lab, through DBMI, provides assigned workspaces for those on campus three or more days per week.
 Those on-site fewer than three days per week use hotelling spaces.
 Any postdoc or staff member working remotely for any number of days per week is expected to have an approved [Remote Work Participation Agreement](https://www.ucdenver.edu/offices/human-resources/remote-work-participation-agreement) in accordance with campus policies.
 
@@ -274,3 +277,4 @@ The pull request process is handled as described in the Getting Code into Greene
 + [code review checklist](extras/code_review_checklist.md)
 + [deployment checklist](extras/deployment_checklist.md)
 + [infrastructure](extras/infrastructure.md)
+
