@@ -183,11 +183,8 @@ To prepare for these meetings students and staff are required to create an activ
 - self-reflection. What do you regard as your strengths and as areas where you need improvement?
 
 The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Greene-reflection-201908.txt).
-Submit the report in a direct message to Casey via slack.
-During the summer, graduate students are required to complete an individual development plan (IDP).
-Post-docs must complete an IDP prior to their annual contract renewal.
-This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle.
-Because much of the material is overlapping, trainees will benefit from preserving their self reflection materials in a format that supports copying and pasting to the IDP form.
+Submit the report in a direct message to Casey via Slack.
+These reflections are due on April 1, August 1, and December 1 of each year. 
 
 # Source Code, Data, and Reproducibility
 
@@ -277,4 +274,5 @@ The pull request process is handled as described in the Getting Code into Greene
 + [code review checklist](extras/code_review_checklist.md)
 + [deployment checklist](extras/deployment_checklist.md)
 + [infrastructure](extras/infrastructure.md)
+
 
