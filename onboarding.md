@@ -179,15 +179,15 @@ To prepare for these meetings students and staff are required to create an activ
 - meeting abstracts: submitted/accepted
 - software releases
 - other honors
+- prior goal review: Did you achieve the goals you set in the last cycle?
 - goals for next session: What would you like to accomplish by the end of next cycle?
-- self-reflection. What do you regard as your strengths and as areas where you need improvement?
+- self-reflection: What do you regard as your strengths and as areas where you need improvement?
 
-The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Greene-reflection-201908.txt).
-Submit the report in a direct message to Casey via slack.
-During the summer, graduate students are required to complete an individual development plan (IDP).
-Post-docs must complete an IDP prior to their annual contract renewal.
-This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle.
-Because much of the material is overlapping, trainees will benefit from preserving their self reflection materials in a format that supports copying and pasting to the IDP form.
+The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Greene-reflection-202506.txt).
+Submit the report in an email to Casey with subject line "\[Full name\] Triannual Reflection \[Month\], \[Year\]."
+These reflections are due on February 1, June 1, and October 1 of each year. 
+University of Colorado postdocs have an annual contract renewal process in late January, which can be used in place of the February 1 triannual self-reflection.
+
 
 # Source Code, Data, and Reproducibility
 
@@ -277,4 +277,5 @@ The pull request process is handled as described in the Getting Code into Greene
 + [code review checklist](extras/code_review_checklist.md)
 + [deployment checklist](extras/deployment_checklist.md)
 + [infrastructure](extras/infrastructure.md)
+
 
