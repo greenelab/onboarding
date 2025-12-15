@@ -186,7 +186,8 @@ To prepare for these meetings students and staff are required to create an activ
 The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Greene-reflection-202506.txt).
 Submit the report in an email to Casey with subject line "\[Full name\] Triannual Reflection \[Month\], \[Year\]."
 These reflections are due on February 1, June 1, and October 1 of each year. 
-University of Colorado postdocs have an annual contract renewal process in late January, which will count for their February 1 triannual self reflection.
+University of Colorado postdocs have an annual contract renewal process in late January, which can be used in place of the February 1 triannual self-reflection.
+
 
 # Source Code, Data, and Reproducibility
 
