@@ -19,3 +19,9 @@ In addition, lab members should have accounts with github.
 These accounts should get added to our:
 
 - [github team account](https://github.com/greenelab/) (Greenelab)
+
+We use the CU Research Computing (CURC) HPC systems (e.g. Alpine).
+Instructions to get a CURC account can be found in the [CURC documentation](https://curc.readthedocs.io/en/latest/getting_started/logging-in.html).
+
+Additionally, you might need access to our PetaLibrary partition `/pl/active/cgreene-sc-hgsoc`.
+You can request access using this [form](https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form) or by emailing CURC at `rc-help@colorado.edu`.
