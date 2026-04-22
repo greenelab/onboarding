@@ -81,7 +81,7 @@ Lab members should first clear such travel with Casey.
 Lab members who are invited to conferences or other presentation opportunities with their costs covered by the organization inviting them, e.g., as an invited speaker or keynote, are welcome to accept such invitations.
 In all cases conference travel should be noted on the lab attendance calendar.
 
-**Training:** Anyone working with human data should complete the CITI human subjects training and it should be repeated every 3 years. 
+**Training:** Anyone working with human data should complete the CITI human subjects training and it should be repeated every 3 years.
 See [COMIRB webpage](https://research.cuanschutz.edu/comirb/home/training) for instructions on how to access the course.
 Please send the completion certificate to Casey.
 
