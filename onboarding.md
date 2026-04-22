@@ -82,7 +82,7 @@ Lab members who are invited to conferences or other presentation opportunities w
 In all cases conference travel should be noted on the lab attendance calendar.
 
 **Training:** Anyone working with human data should complete the CITI human subjects training and it should be repeated every 3 years. 
-See [COMBIRB webpage](https://research.cuanschutz.edu/comirb/home/training) for instructions on how to access the course.
+See [COMIRB webpage](https://research.cuanschutz.edu/comirb/home/training) for instructions on how to access the course.
 Please send the completion certificate to Casey.
 
 # Communication
