@@ -250,6 +250,10 @@ Keeping the pull request focused to one area makes it easier for your reviewers 
 If you get named by the submitter, it's courteous to review the request.
 We have created a [checklist](https://github.com/greenelab/onboarding/blob/master/extras/code_review_checklist.md) to facilitate review.
 As a reviewer, you are responsible for making sure that all checklist guidelines are followed.
+**Automated tooling (optional).** 
+Repositories may additionally run automated PR review (e.g. CodeRabbit) and coverage reporting (e.g.
+Codecov) — see `extras/automated_review_tooling.md` for what these add and how to set them up. 
+These are additive to, not a replacement for, the ≥1-lab-member-approval requirement above.
 
 **Projects that didn't work:** We expect that repositories will contain failures (e.g. proof-of-concepts that didn't work).
 This is ideal.

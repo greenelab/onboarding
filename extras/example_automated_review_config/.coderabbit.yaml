@@ -1,0 +1,62 @@
+# Configuration for CodeRabbit, the automated PR review bot described in
+# ../automated_review_tooling.md. Comment-only by default: it flags likely
+# bugs, security issues, and style concerns, but does not request changes
+# or block merges. Version-controlled here rather than left as
+# dashboard-only settings, so the config is reviewable like any other code.
+
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+language: en-US
+early_access: false
+
+reviews:
+  # "chill" flags bugs/security/logic issues but skips style nitpicks a
+  # linter already catches.
+  profile: chill
+  # Reviews are posted as comments, not as "changes requested". This only
+  # governs the review mode — it does not affect CodeRabbit's separate
+  # pre-merge checks or whether branch protection treats its status check
+  # as required. Keep that status check out of any required-checks list
+  # so human approval stays the only real merge gate.
+  request_changes_workflow: false
+  high_level_summary: true
+  poem: false
+  review_status: true
+  auto_review:
+    enabled: true
+    base_branches:
+      - main
+  # Skip large/binary/generated paths that a code review can't meaningfully
+  # evaluate.
+  path_filters:
+    - "!archive/**"
+    - "!docs/figures/**"
+    - "!**/*.h5ad"
+    - "!**/*.csv"
+    - "!**/*.zip"
+    - "!**/*.pptx"
+  # Per-path review instructions: what is actually worth flagging differs
+  # by codebase area, so scrutiny is tuned per directory rather than
+  # applied uniformly.
+  path_instructions:
+    - path: "src/fmharness/**"
+      instructions: >
+        This is the core evaluation-harness library: data loaders, model
+        adapters, splitters, evaluation metrics. Apply strict scrutiny to
+        correctness — train/test leakage across splits, off-by-one
+        indexing into biological identifiers (drug/sample IDs), silent
+        NaN propagation, and statistical methodology (permutation nulls,
+        cross-validation folds).
+    - path: "scripts/**"
+      instructions: >
+        One-off analysis/pipeline scripts, not library code. Favor
+        correctness and reproducibility (fixed random seeds, documented
+        inputs/outputs). Do not flag lack of abstraction or code reuse —
+        that is expected here.
+    - path: "tests/**"
+      instructions: >
+        Check that tests assert on actual values or behavior, not just
+        "runs without error." Flag missing edge cases for data loaders
+        (empty input, mismatched IDs, all-NaN columns).
+
+chat:
+  auto_reply: true
