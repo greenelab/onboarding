@@ -1,0 +1,23 @@
+# Codecov project configuration, referenced in ../automated_review_tooling.md.
+# Coverage reporting is kept "informational" so it is visible on every PR.
+# Coverage statuses do not act as merge gates here; any merge gating is
+# controlled separately via branch protection and/or required checks.
+codecov:
+  require_ci_to_pass: true
+
+coverage:
+  status:
+    # Overall repo coverage: report only, does not block the PR.
+    project:
+      default:
+        informational: true
+    # Coverage of just the changed/new code in a PR: report only, does not
+    # block the PR.
+    patch:
+      default:
+        informational: true
+
+comment:
+  layout: "diff, flags, files"
+  behavior: default
+  require_changes: false

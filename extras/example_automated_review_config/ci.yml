@@ -1,0 +1,55 @@
+# Example CI workflow (place under .github/workflows/ in a real repo) that
+# runs lint/type/test checks and uploads coverage to Codecov, per
+# ../automated_review_tooling.md. Coverage reporting is the piece that
+# tracks a number over time across commits, complementing the CodeRabbit
+# PR-review bot and the pre-PR self-review step described in that doc.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - name: Install uv
+        uses: astral-sh/setup-uv@caf0cab7a618c569241d31dcd442f54681755d39 # v3.2.4
+      - name: Install Python 3.11
+        run: uv python install 3.11
+      - name: Sync project
+        run: uv sync --extra dev
+      # Ruff's linter: catches unused imports/variables, undefined names,
+      # and other static-analysis issues.
+      - name: Ruff lint
+        run: uv run ruff check .
+      # Ruff's formatter, run in --check mode so CI fails on unformatted
+      # code without rewriting files in place. Run `uv run ruff format .`
+      # locally (no --check) to auto-fix before pushing.
+      - name: Ruff format check
+        run: uv run ruff format --check .
+      # Static type checking. Catches type errors Ruff doesn't (Ruff lints
+      # style/correctness patterns, not types).
+      - name: Pyright
+        run: uv run pyright
+      # --cov-report=xml produces coverage.xml for the Codecov upload step
+      # below; --cov-report=term-missing keeps a human-readable summary in
+      # the CI log.
+      - name: Pytest
+        run: uv run pytest --cov=src/fmharness --cov-report=term-missing --cov-report=xml
+      # Uploads coverage.xml to Codecov, which then comments on the PR with
+      # how much of the *changed* code is covered (see codecov.yml in this
+      # folder for the comment/status configuration). continue-on-error
+      # keeps a flaky Codecov upload from failing the whole CI run, so
+      # fail_ci_if_error is disabled for consistency with that behavior.
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@fb8b3582c8e4def4969c97caa2f19720cb33a72f # v7.0.0
+        continue-on-error: true
+        with:
+          files: ./coverage.xml
+          fail_ci_if_error: false
