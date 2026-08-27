@@ -45,11 +45,11 @@ jobs:
       # Uploads coverage.xml to Codecov, which then comments on the PR with
       # how much of the *changed* code is covered (see codecov.yml in this
       # folder for the comment/status configuration). continue-on-error
-      # keeps a flaky Codecov upload from failing the whole CI run, even
-      # though fail_ci_if_error is set on the action itself.
+      # keeps a flaky Codecov upload from failing the whole CI run, so
+      # fail_ci_if_error is disabled for consistency with that behavior.
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@fb8b3582c8e4def4969c97caa2f19720cb33a72f # v7.0.0
         continue-on-error: true
         with:
           files: ./coverage.xml
-          fail_ci_if_error: true
+          fail_ci_if_error: false
